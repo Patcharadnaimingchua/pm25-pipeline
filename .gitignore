@@ -1,0 +1,20 @@
+# secrets
+
+# runtime
+logs/
+airflow-config/
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# BI binaries can be large; commit only released versions on purpose
+bi/*.pbix.bak
+_to_delete/
+.venv/
+data/
+_to_delete/
+.DS_Store

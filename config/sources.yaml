@@ -1,0 +1,51 @@
+# Single place for source settings. Code reads this file; secrets stay in .env.
+# Everything marked VERIFY was not confirmed against the live source yet — confirm in Week 1.
+
+timezone_local: Asia/Bangkok
+analysis_window:
+  start: "2022-01-01"
+  end: "2025-12-31"
+
+thailand_bbox:            # west, south, east, north (approximate; VERIFY against a boundary file)
+  west: 97.3
+  south: 5.5
+  east: 105.7
+  north: 20.6
+
+sources:
+  gistda_pm25:
+    base_url: https://pm25.gistda.or.th/rest
+    endpoints:
+      province: /getPm25byProvince                 # verified 2026-10-02: 77 records
+      amphoe: /getPm25byAmphoe?pv_idn={pv_idn}      # verified 2026-10-02: 25 records for pv_idn=50
+      province_24h: /getPM25byProvince24hrs?pv_idn={pv_idn}   # verified: 24 hourly points
+    schedule_cron: "20 * * * *"
+    max_concurrent_requests: 4
+    request_timeout_s: 30
+    max_failed_provinces_pct: 10
+
+  firms:
+    base_url: https://firms.modaps.eosdis.nasa.gov/api/area/csv
+    sources: [VIIRS_SNPP_SP, VIIRS_SNPP_NRT, VIIRS_NOAA20_SP, VIIRS_NOAA20_NRT, VIIRS_NOAA21_NRT]
+    max_day_range: 5
+    rate_limit: "5000 transactions / 10 minutes per MAP_KEY"
+    bbox: thailand        # or 'regional' later for Q7
+    regional_bbox: {west: 92.0, south: 5.5, east: 110.0, north: 28.5}   # VERIFY / tune
+
+  openaq:
+    api_base_url: https://api.openaq.org/v3
+    s3_bucket: openaq-data-archive
+    s3_region: us-east-1
+    s3_key_template: "records/csv.gz/locationid={location_id}/year={year}/month={month:02d}/location-{location_id}-{yyyymmdd}.csv.gz"
+    provider_filter: Air4Thai
+    lookback_days: 2      # archive files may be patched retroactively
+
+  open_meteo:
+    base_url: https://archive-api.open-meteo.com/v1/archive
+    hourly_variables:     # VERIFY names, esp. boundary_layer_height availability in the archive API
+      - temperature_2m
+      - relative_humidity_2m
+      - wind_speed_10m
+      - wind_direction_10m
+      - precipitation
+      - boundary_layer_height

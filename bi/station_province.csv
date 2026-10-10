@@ -1,0 +1,235 @@
+﻿station_id,station_name,latitude,longitude,province_th,province_en,stations_in_province
+openaq:1172475,"Natural Resource and Environment, Phatthalung-1174302",7.614396,100.113766,พัทลุง,Phatthalung,2
+openaq:1180402,Ban Padang Community School-1182227,6.666143963588895,100.32734858721086,สงขลา,Songkhla,5
+openaq:1180409,Provincial Natural Resources and Environmental Office-2875252,6.890639752808323,101.25106087293469,ปัตตานี,Pattani,2
+openaq:1290682,Ranong Municipal office-1260903,9.961849,98.639341,ระนอง,Ranong,1
+openaq:1299596,Phangnga Provincial Government Center-1269817,8.424964,98.528719,พังงา,Phang Nga,1
+openaq:135,Prabadang Rehabiltation Center-931590,13.664087,100.543436,สมุทรปราการ,Samut Prakan,5
+openaq:1650686,Mueang Chaiyaphum Municipality Stadium-1620661,15.81148,102.02281,ชัยภูมิ,Chaiyaphum,2
+openaq:1650687,Phaya Thaen Public Park-1620662,15.783860999999998,104.154639,ยโสธร,Yasothon,1
+openaq:1650688,SINGBURI SCHOOL-1620663,14.8933874,100.4130773,สิงห์บุรี,Sing Buri,3
+openaq:1785688,Amnat Charoen Municipality-1755663,15.875800000000002,104.6223,อำนาจเจริญ,Amnat Charoen,2
+openaq:1785690,KAENG DON KLANG PARK-1755665,16.4436,103.513,กาฬสินธุ์,Kalasin,3
+openaq:1785691,Nakhon Nayok Municipality Public Health Service Center-1755666,14.204219999999998,101.21509,นครนายก,Nakhon Nayok,2
+openaq:1785692,Nong Bueng Kan Park-1755667,18.362008,103.65977,บึงกาฬ,Bueng Kan,2
+openaq:1785693,Sisaket Meteorological Center-1755668,15.0868362,104.3264746,ศรีสะเกษ,Sisaket,3
+openaq:1785694,Surin Meteorological Center-1755669,14.8762222,103.4965833,สุรินทร์,Surin,1
+openaq:1861095,Wiang Subdistrict Disaster Prevention and Mitigation Center-1831070,18.804894,98.900698,เชียงใหม่,Chiang Mai,11
+openaq:1864570,"Provincial Electricity Authority, Hot District Branch-1834545",18.172495,98.61069,เชียงใหม่,Chiang Mai,11
+openaq:1873401,Sisaket Meteorological Center-1843376,15.087087,104.326787,ศรีสะเกษ,Sisaket,3
+openaq:1896059,Pai Airport-1866034,19.364055,98.436205,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:1896763,Pai Airport-1866738,19.369637,98.43596,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:1993935,Nong Bua Lamphu Provincial Administrative Organization-1963910,17.193824,102.4585009,หนองบัวลำภู,Nong Bua Lamphu,2
+openaq:1993936,"Somdet Phra Srinagarindra Park, Roi Et-1963911",16.057537,103.651372,ร้อยเอ็ด,Roi Et,2
+openaq:2088223,Government House-2058198,13.76391101889934,100.51289004935268,กรุงเทพมหานคร,Bangkok,83
+openaq:2132593,Phetchaburi Municipality-2102568,13.11249031,99.9461325,เพชรบุรี,Phetchaburi,3
+openaq:2167,Highway District-2167,13.7054879,100.315622,สมุทรสาคร,Samut Sakhon,3
+openaq:225567,Maesai Health Office-237863,20.427325,99.883842,เชียงราย,Chiang Rai,4
+openaq:225568,"Bang Khen District Office, Bangkok-237864",13.873603,100.595839,กรุงเทพมหานคร,Bangkok,83
+openaq:225569,Health Promotion Hospital Bankhaohin-237865,13.054551,101.098128,ชลบุรี,Chonburi,3
+openaq:225570,"Meteorological stations, Lampang-237866",18.2783333,99.5064666,ลำปาง,Lampang,4
+openaq:225571,"Bang Khun Thian District Office, Bangkok-237867",13.659908,100.435902,กรุงเทพมหานคร,Bangkok,83
+openaq:225572,Kasertsart University-237868,13.839923,100.575632,กรุงเทพมหานคร,Bangkok,83
+openaq:225573,Hat Yai Municipality-237869,7.020434,100.484088,สงขลา,Songkhla,5
+openaq:225574,"Phra Kanong District Office,  Bangkok-237870",13.691511,100.61457,กรุงเทพมหานคร,Bangkok,83
+openaq:225575,Bangkok Noi Train Police Station-237871,13.759619,100.481137,กรุงเทพมหานคร,Bangkok,83
+openaq:225576,Khai Surasinghanat-237872,12.648576,101.32245,ระยอง,Rayong,7
+openaq:225577,"Bank of Ayuthaya Head Office Yan Nawa, Bangkok-237873",13.679226,100.54687,กรุงเทพมหานคร,Bangkok,83
+openaq:225578,White Elephant Park-237874,6.546205,101.283137,ยะลา,Yala,2
+openaq:225579,Yupparaj Wittayalai School-237875,18.7909333,98.99,เชียงใหม่,Chiang Mai,11
+openaq:225580,National Housing Authority Klongchan-237876,13.779873,100.646009,กรุงเทพมหานคร,Bangkok,83
+openaq:225582,"Khlong Toei District Office, Bangkok-237878",13.708488,100.583747,กรุงเทพมหานคร,Bangkok,83
+openaq:225583,Mobile Air Quality Monitoring unit No.04-237879,18.804718,98.896851,เชียงใหม่,Chiang Mai,11
+openaq:225584,Samut Songkhram Health Office-237880,13.428581,100.02466400000002,สมุทรสงคราม,Samut Songkhram,1
+openaq:225585,Chom Nan Chaloem Phrakiat Public Park-237881,16.820832999999997,100.258056,พิษณุโลก,Phitsanulok,1
+openaq:225586,Elderly Health Rehabilitation Center-237882,8.426923,99.96146899999998,นครศรีธรรมราช,Nakhon Si Thammarat,1
+openaq:225587,Water reservoir-237883,13.832076,100.057961,นครปฐม,Nakhon Pathom,1
+openaq:225589,Kanjanapisek Park-237885,13.691047,102.510442,สระแก้ว,Sa Kaeo,1
+openaq:225590,"Sai Mai District Office, Bangkok-237886",13.896035,100.660628,กรุงเทพมหานคร,Bangkok,83
+openaq:225591,"Ladphrao District Office, Bangkok-237887",13.803587,100.607535,กรุงเทพมหานคร,Bangkok,83
+openaq:225592,"District Hall, Kamphaeng Phet-237888",16.48515,99.524454,กำแพงเพชร,Kamphaeng Phet,2
+openaq:225593,Big C Supercenter Bang Na-237889,13.667987,100.635313,กรุงเทพมหานคร,Bangkok,83
+openaq:225594,Phichit Provincial Government Center-237890,16.421049,100.3629,พิจิตร,Phichit,2
+openaq:225595,Bang Bon 5 Market-237891,13.639165,100.372958,กรุงเทพมหานคร,Bangkok,83
+openaq:225596,"Sathon District Office, Bangkok-237892",13.707763,100.526787,กรุงเทพมหานคร,Bangkok,83
+openaq:225598,Bu Yai Bai Hall Station-237894,13.917563,101.590529,ปราจีนบุรี,Prachin Buri,3
+openaq:225599,Bangrak Lovely Plaza-237895,13.726136,100.528055,กรุงเทพมหานคร,Bangkok,83
+openaq:225600,Trat Provincial Central Stadium-237896,12.234862,102.523721,ตราด,Trat,1
+openaq:225601,Chaloem Phrakiat Park Station 80th birthday celebration-237897,15.373638,100.038725,อุทัยธานี,Uthai Thani,2
+openaq:225602,Municipal Waste Water Pumping Station-237898,14.979537,102.098335,นครราชสีมา,Nakhon Ratchasima,1
+openaq:225604,Seacon Square-237900,13.695561,100.647615,กรุงเทพมหานคร,Bangkok,83
+openaq:225605,Municipal Health Center-237901,7.884488,98.391283,ภูเก็ต,Phuket,1
+openaq:225606,Kanchanaburi Meteorological Station-237902,14.022376,99.536195,กาญจนบุรี,Kanchanaburi,2
+openaq:225607,"Environment Agency Section 14, Surat Thani-237903",9.126017,99.325145,สุราษฎร์ธานี,Surat Thani,1
+openaq:225609,Nakhonsawan Irrigation Project-237905,15.68623,100.110556,นครสวรรค์,Nakhon Sawan,1
+openaq:225610,"Bueng Kum District Office, Bangkok-237906",13.785212,100.669183,กรุงเทพมหานคร,Bangkok,83
+openaq:225611,Health Promotion Hospital Maptaput-237907,12.70865,101.1659833,ระยอง,Rayong,7
+openaq:225612,Bansomdejchaopraya Rajabhat University-237908,13.732846,100.487662,กรุงเทพมหานคร,Bangkok,83
+openaq:225613,Lat Krabang Hospital-237909,13.72205,100.784069,กรุงเทพมหานคร,Bangkok,83
+openaq:225614,Tha phra Intersection-237910,13.729431,100.474373,กรุงเทพมหานคร,Bangkok,83
+openaq:225615,"Meteorological stations, Nakhon Phanom-237911",17.412345,104.7786123,นครพนม,Nakhon Phanom,1
+openaq:225616,Mukdahan Provincial Hall-237912,16.54637,104.72597,มุกดาหาร,Mukdahan,2
+openaq:225617,"Suan Luang District Office, Bangkok-237913",13.731051,100.651705,กรุงเทพมหานคร,Bangkok,83
+openaq:225619,"Don Mueng District Office, Bangkok-237915",13.910986,100.594877,กรุงเทพมหานคร,Bangkok,83
+openaq:225620,Na Phralan Police Station-237916,14.685833,100.87199599999998,สระบุรี,Saraburi,2
+openaq:225621,Thon Buri Market Sanam Luang 2-237917,13.746257,100.355099,กรุงเทพมหานคร,Bangkok,83
+openaq:225622,"Huai Khwang District Office, Bangkok-237918",13.77682,100.579543,กรุงเทพมหานคร,Bangkok,83
+openaq:225623,Environmental Office 8 ratchaburi-237919,13.52344,99.814082,ราชบุรี,Ratchaburi,1
+openaq:225624,Odeon Circus-237920,13.737136,100.512734,กรุงเทพมหานคร,Bangkok,83
+openaq:225625,"City Hall, Satun-237921",6.624747,100.066159,สตูล,Satun,1
+openaq:225626,"Non-Formal Education Centre, Mea Sot-237922",16.734413,98.566961,ตาก,Tak,5
+openaq:225627,"Municipality Office, Sukhothai-237923",17.014167,99.821667,สุโขทัย,Sukhothai,2
+openaq:225628,"Government Complex, Rayong-237924",12.7066,101.18055,ระยอง,Rayong,7
+openaq:225629,Department of Disease Control-237925,13.852778,100.529444,นนทบุรี,Nonthaburi,3
+openaq:225630,"Meteorology Center, Phrae-237926",18.1283666,100.16243330000002,แพร่,Phrae,1
+openaq:225631,National Economic and Social Development Council Office-237927,13.756281,100.514267,กรุงเทพมหานคร,Bangkok,83
+openaq:225632,"Chomthong District Office, Bangkok-237928",13.677757,100.483861,กรุงเทพมหานคร,Bangkok,83
+openaq:225633,Siam University-237929,13.718689,100.45391,กรุงเทพมหานคร,Bangkok,83
+openaq:225634,"Rat Burana District Office,  Bangkok-237930",13.6821364,100.5060513,กรุงเทพมหานคร,Bangkok,83
+openaq:225635,"Wang Thonglang District Office, Bangkok-237931",13.778981,100.622294,กรุงเทพมหานคร,Bangkok,83
+openaq:225636,Khao Noi Fire Station-237932,14.526343,100.926047,สระบุรี,Saraburi,2
+openaq:225637,South Bangkok Power Plant-237933,13.618,100.5562,สมุทรปราการ,Samut Prakan,5
+openaq:225638,Samyan Mitrtown-237934,13.733136,100.52829,กรุงเทพมหานคร,Bangkok,83
+openaq:225639,"City Hall, Narathiwat-237935",6.426853,101.823388,นราธิวาส,Narathiwat,1
+openaq:225640,Library under King Taksin Bridge-237936,13.719705,100.508782,กรุงเทพมหานคร,Bangkok,83
+openaq:225641,"Din Dang, Bangkok-237937",13.7619223,100.558606,กรุงเทพมหานคร,Bangkok,83
+openaq:225642,"Bang Phlat District Office, Bangkok-237938",13.793965,100.504956,กรุงเทพมหานคร,Bangkok,83
+openaq:225643,Bangkok University Rangsit Campus-237939,14.03742,100.605216,ปทุมธานี,Pathum Thani,1
+openaq:225644,Suphan Buri Provincial Central Stadium-237940,14.476214,100.086095,สุพรรณบุรี,Suphan Buri,1
+openaq:225645,National Housing Authority Bangplee-237941,13.5705,100.7862867,สมุทรปราการ,Samut Prakan,5
+openaq:225646,Provincial Waterworks Authority Mae Moh-237942,18.2826333,99.6598166,ลำปาง,Lampang,4
+openaq:225647,"Phra Nakhon District Office, Bangkok-237943",13.76415,100.499077,กรุงเทพมหานคร,Bangkok,83
+openaq:225648,"Natural Resources and Environment Office, Mae Hongson-237944",19.30455,97.97165,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:225649,"OTOP Center, Ubon Ratchathani-237945",15.245413,104.846219,อุบลราชธานี,Ubon Ratchathani,1
+openaq:225650,The Government Public Relations Department-237946,13.783185,100.540489,กรุงเทพมหานคร,Bangkok,83
+openaq:225651,"Saphan Sung District Office, Bangkok-237947",13.768892,100.685743,กรุงเทพมหานคร,Bangkok,83
+openaq:225652,Public Park to commemorate the sixth anniversary of His Majesty the King-237948,13.697252,100.497185,กรุงเทพมหานคร,Bangkok,83
+openaq:225653,Chokchai Police Station-237949,13.7954248,100.5930298,กรุงเทพมหานคร,Bangkok,83
+openaq:225654,"Environment Agency Section 13, Chonburi-237950",13.35461667,100.9792167,ชลบุรี,Chonburi,3
+openaq:225655,"Meteorological Staions, Lamphun-237951",18.567194,99.038639,ลำพูน,Lamphun,2
+openaq:225656,"Bang Sue District Office, Bangkok-237952",13.809596,100.537883,กรุงเทพมหานคร,Bangkok,83
+openaq:225657,"child development centers, Betong-237953",5.763873,101.067903,ยะลา,Yala,2
+openaq:225658,Bueng Kan District Office-237954,18.358249,103.652055,บึงกาฬ,Bueng Kan,2
+openaq:225659,Kalasin Provincial Natural Resources and Environment Office-237955,16.442904,103.535221,กาฬสินธุ์,Kalasin,3
+openaq:225660,"Chaloem Phrakiat Rama 9 Park Min buri, Bangkok-237956",13.813578,100.73208,กรุงเทพมหานคร,Bangkok,83
+openaq:225661,"Nong Thin Public Park, Nong Khai-237957",17.877479999999995,102.728925,หนองคาย,Nong Khai,1
+openaq:225663,Buriram City Hall-237959,14.945452,103.10589600000002,บุรีรัมย์,Buriram,1
+openaq:225664,Chaiyaphum City Hall-237960,15.808061,102.031993,ชัยภูมิ,Chaiyaphum,2
+openaq:225666,"Phayao Provincial, Phayao-237962",19.200226,99.893048,พะเยา,Phayao,1
+openaq:225667,Mahaisawan Intersection-237963,13.70515,100.48465,กรุงเทพมหานคร,Bangkok,83
+openaq:225668,"Bang Kapi District Office, Bangkok-237964",13.766478,100.647785,กรุงเทพมหานคร,Bangkok,83
+openaq:225669,"City Hall, Chiangmai-237965",18.840732,98.96978,เชียงใหม่,Chiang Mai,11
+openaq:225671,"Khlong Sam Wa District Office, Bangkok-237967",13.859911,100.704002,กรุงเทพมหานคร,Bangkok,83
+openaq:225672,Suan Sayam-Ram Intra Intersection-237968,13.813844,100.686594,กรุงเทพมหานคร,Bangkok,83
+openaq:225673,National Housing Authority Dindaeng-237969,13.762516670000002,100.5502,กรุงเทพมหานคร,Bangkok,83
+openaq:225674,"Municipality Office, Nan-237970",18.7888833,100.7763166,น่าน,Nan,1
+openaq:225675,Meteorological Station Lopburi-237971,14.800032,100.628548,ลพบุรี,Lopburi,1
+openaq:225676,Ayutthaya Witthayalai School-237972,14.35222,100.565325,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,4
+openaq:225677,"Lak Si District Office, Bangkok-237973",13.887395,100.579247,กรุงเทพมหานคร,Bangkok,83
+openaq:225678,"Bang Khae District Office, Bangkok-237974",13.696314,100.409049,กรุงเทพมหานคร,Bangkok,83
+openaq:225679,"Dusit District Office, Bangkok-237975",13.776664,100.520982,กรุงเทพมหานคร,Bangkok,83
+openaq:225680,Sri Nakhon Khuean Khan Park-237976,13.696681,100.563631,สมุทรปราการ,Samut Prakan,5
+openaq:225681,"Soi Sukhumwit 63 Roadside Wattana, Bangkok-237977",13.722096,100.584559,กรุงเทพมหานคร,Bangkok,83
+openaq:225682,King Mongkut's University of Technology Thonburi-237978,13.651004,100.496673,กรุงเทพมหานคร,Bangkok,83
+openaq:225683,"Nong Chok District Office, Bangkok-237979",13.855362,100.86267,กรุงเทพมหานคร,Bangkok,83
+openaq:225684,Army Apartment Sam Sen-237980,13.783554,100.5344645,กรุงเทพมหานคร,Bangkok,83
+openaq:225685,National Housing  Huaykwang-237981,13.77553,100.569195,กรุงเทพมหานคร,Bangkok,83
+openaq:225686,Highway NO.3902 km.13 +600-237982,13.636514,100.414262,กรุงเทพมหานคร,Bangkok,83
+openaq:225688,"Ratchathewi District Office, Bangkok-237984",13.7590851,100.5345788,กรุงเทพมหานคร,Bangkok,83
+openaq:225689,Phutthamonthon 1 - Borommaratchachonnani Intersection-237985,13.780778,100.426727,กรุงเทพมหานคร,Bangkok,83
+openaq:225690,Agricultural Office-237986,12.67155,101.2758667,ระยอง,Rayong,7
+openaq:225691,"Ma Charean Roadside, Petcha Kasem 8, Nong Khaem-237987",13.705582,100.343164,กรุงเทพมหานคร,Bangkok,83
+openaq:225692,"Health Promotion Hospital Sob Pad, Lampang-237988",18.2508166,99.76395,ลำปาง,Lampang,4
+openaq:225693,"Debaratana Vejjanukul Hospital, Mae Chaem-237989",18.498333,98.379444,เชียงใหม่,Chiang Mai,11
+openaq:228541,"60th Anniversary Queen Sirikit Public Park, Loei-240837",17.48462,101.732734,เลย,Loei,1
+openaq:228542,"Nong Prajak Public Park, Udon Thani-240838",17.414174,102.780926,อุดรธานี,Udon Thani,1
+openaq:228543,"72nd Anniversary King Bhumibol Public Park, Uttaradit-240839",17.631351999999996,100.09896000000002,อุตรดิตถ์,Uttaradit,1
+openaq:228544,"Meteorological stations, Sakon Nakhon-240840",17.15662,104.133216,สกลนคร,Sakon Nakhon,1
+openaq:228627,"Polytechnic College, Trang-240923",7.570238000000001,99.588743,ตรัง,Trang,1
+openaq:2326,Thai Meteorological Department-2326,13.666183,100.605742,กรุงเทพมหานคร,Bangkok,83
+openaq:2328,"Natural Resources and Environment Office, Chiangrai-2328",19.909217,99.823467,เชียงราย,Chiang Rai,4
+openaq:2352,Thonburi Power Sub-Station-931684,13.727622,100.486568,กรุงเทพมหานคร,Bangkok,83
+openaq:2375,Bodindecha Sing Singhaseni School-2375,13.769634,100.614567,กรุงเทพมหานคร,Bangkok,83
+openaq:2376,Samut Sakhon Wittayalai School-2376,13.5502631,100.2647676,สมุทรสาคร,Samut Sakhon,3
+openaq:2407,Municipality Office Tungsadao-2407,13.588500000000002,101.28633329999998,ฉะเชิงเทรา,Chachoengsao,1
+openaq:2411,Health Promotion Hospital Banthasri-2411,18.4267833,99.7576333,ลำปาง,Lampang,4
+openaq:2523721,Prachinburi Provincial Public Health-2493512,14.053201,101.369361,ปราจีนบุรี,Prachin Buri,3
+openaq:2524053,Prachinburi Provincial Public Health-2493844,14.0449046434287,101.3689396242558,ปราจีนบุรี,Prachin Buri,3
+openaq:270250,Phetbura garden-282546,16.418417,101.156556,เพชรบูรณ์,Phetchabun,1
+openaq:270292,Ban Pa Bong School-282588,19.336111,98.954444,เชียงใหม่,Chiang Mai,11
+openaq:270695,"Taksin Stadium, Muang Tak Municipality-282992",16.883611,99.123056,ตาก,Tak,5
+openaq:270702,Bueng Planchai-282998,16.057448,103.651056,ร้อยเอ็ด,Roi Et,2
+openaq:270780,Singburi City Hall-283076,14.897778,100.411944,สิงห์บุรี,Sing Buri,3
+openaq:270824,"Ban Pang, Bang Sai, Phra Nakhon Si Ayutthaya-283121",14.235833,100.485556,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,4
+openaq:277658,"Natural Resources and Environment Office, Sing Buri-288697",14.889702,100.397979,สิงห์บุรี,Sing Buri,3
+openaq:278507,Mae Sariang District Public Health Office-289546,18.163056,97.917778,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:278637,Chiang Khong District Public Health Office-289676,20.258611,100.407778,เชียงราย,Chiang Rai,4
+openaq:289762,Sisaket City Hall-300363,15.11879,104.322607,ศรีสะเกษ,Sisaket,3
+openaq:290775,Amnat Charoen Clock Tower-301376,15.863523,104.627401,อำนาจเจริญ,Amnat Charoen,2
+openaq:3008643,Chumchon Banpadang School-2978599,6.66638438023621,100.32726914385204,สงขลา,Songkhla,5
+openaq:3047300,"Sports Stadium, Chumphon Province-3017246",10.495142389105824,99.1893540951232,ชุมพร,Chumphon,1
+openaq:308183,Kaeng Krachan National Park-318784,12.884444,99.632778,เพชรบุรี,Phetchaburi,3
+openaq:319752,Si Sawat District Office-330408,14.600278,99.114444,กาญจนบุรี,Kanchanaburi,2
+openaq:3291325,Mae Sariang District Office-3261270,18.158912,97.93271,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:3337858,Health Promoting Hospital Khlong Sakae-3307794,14.499973,100.650785,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,4
+openaq:3345301,Pramuan Suk Health Park-3315235,16.77283,103.299824,กาฬสินธุ์,Kalasin,3
+openaq:3345345,Rayong Provincial Stadium-3315279,12.678917,101.234664,ระยอง,Rayong,7
+openaq:3347581,Pramuan Suk Health Park-3317515,16.177283,103.299824,มหาสารคาม,Maha Sarakham,1
+openaq:3368091,Land Development Station-3338025,13.520415,100.1506688,สมุทรสาคร,Samut Sakhon,3
+openaq:351927,Le Thai Community Park-362528,17.006058999999997,99.81927,สุโขทัย,Sukhothai,2
+openaq:353740,Chanthaburi Meteorological Station-364341,12.6095704,102.1040804,จันทบุรี,Chanthaburi,1
+openaq:353741,"Phichit Provincial , Phichit-364342",16.442554,100.322756,พิจิตร,Phichit,2
+openaq:353742,Mukdahan Provincial Stadium-364343,16.54257,104.7192,มุกดาหาร,Mukdahan,2
+openaq:353743,Sirichit Thai Cultural Conservation Ground-364344,16.475374,99.525425,กำแพงเพชร,Kamphaeng Phet,2
+openaq:354124,Hua Hin Weather Station Prachuap Khiri Khan Meteorological Station-364725,12.577835,99.953663,ประจวบคีรีขันธ์,Prachuap Khiri Khan,1
+openaq:368390,Thawee Wanarom Park-378991,13.7435329,100.3526893,กรุงเทพมหานคร,Bangkok,83
+openaq:368391,Suan Luang Rama IX-378992,13.6881393,100.6579657,กรุงเทพมหานคร,Bangkok,83
+openaq:368392,Ramintra Sports Park-378993,13.8778763,100.6207085,กรุงเทพมหานคร,Bangkok,83
+openaq:368393,Rommani Thungsikan Park-378994,13.9288678,100.5684666,กรุงเทพมหานคร,Bangkok,83
+openaq:368394,Lumpini park-378995,13.732225,100.5448381,กรุงเทพมหานคร,Bangkok,83
+openaq:368395,Thonburirom Park-378996,13.6502295,100.4909771,กรุงเทพมหานคร,Bangkok,83
+openaq:368396,Queen Sirikit Park-378997,13.8055472,100.5488338,กรุงเทพมหานคร,Bangkok,83
+openaq:368397,Rama VIII Park-378998,13.7693437,100.4945337,กรุงเทพมหานคร,Bangkok,83
+openaq:368398,Santiphap Park-378999,13.7631081,100.541407,กรุงเทพมหานคร,Bangkok,83
+openaq:368399,Benjakitti Park-379000,13.7328791,100.5600172,กรุงเทพมหานคร,Bangkok,83
+openaq:368400,"Bang Kho Laem District Office, Bangkok (Mobile)-379001",13.69304,100.50244,กรุงเทพมหานคร,Bangkok,83
+openaq:368401,Nong Chok Park-379002,13.855656,100.8585539,กรุงเทพมหานคร,Bangkok,83
+openaq:368402,Serithai Park-379003,13.7855673,100.6733359,กรุงเทพมหานคร,Bangkok,83
+openaq:368403,Chatuchak Park-379004,13.802546,100.5509191,กรุงเทพมหานคร,Bangkok,83
+openaq:368404,"60th Anniversary of Queen Sirikit Park ,Kheha Romklao Road, Lat Krabang, Bangkok-379005",13.7631141,100.7302101,กรุงเทพมหานคร,Bangkok,83
+openaq:368405,Bang Khae Phirom Park-379006,13.6863478,100.3844036,กรุงเทพมหานคร,Bangkok,83
+openaq:368406,80th Anniversary Commemoration Park-379007,13.7716446,100.4681128,กรุงเทพมหานคร,Bangkok,83
+openaq:368407,Wacchirabenchatat Park-379008,13.8118516,100.5535825,กรุงเทพมหานคร,Bangkok,83
+openaq:368408,Phra Nakhon Park-379009,13.7201042,100.7807077,กรุงเทพมหานคร,Bangkok,83
+openaq:368485,Benchasiri Park-379086,13.7304916,100.5684634,กรุงเทพมหานคร,Bangkok,83
+openaq:385742,Chaloem Phra Kiat Water Park-396343,14.606306,100.453589,อ่างทอง,Ang Thong,1
+openaq:387511,Wiang Subdistrict Disaster Prevention and Mitigation Center-398112,20.2575,100.4025,เชียงราย,Chiang Rai,4
+openaq:387660,Mueang Na Subdistrict Municipality Office-398261,19.593889,98.961667,เชียงใหม่,Chiang Mai,11
+openaq:388656,"Chiang Mai Provincial Administrative Organization Office, Intersection (Southern Area)-399257",18.175,98.630833,เชียงใหม่,Chiang Mai,11
+openaq:388962,Li District Office-399563,17.802222,98.949722,ลำพูน,Lamphun,2
+openaq:414787,Tha Yang Subdistrict Municipality Office-425388,12.965556,99.891944,เพชรบุรี,Phetchaburi,3
+openaq:418,Department of Disease Control-418,13.853457,100.527132,นนทบุรี,Nonthaburi,3
+openaq:418809,National Housing Authority Klongchan-429410,13.76121,100.517035,กรุงเทพมหานคร,Bangkok,83
+openaq:429157,Nong Bua Lamphu Meteorological Station-439758,17.226111,102.424167,หนองบัวลำภู,Nong Bua Lamphu,2
+openaq:429261,Tak Provincial Administrative Organization-439862,16.877778,99.139722,ตาก,Tak,5
+openaq:497972,Phatong Municipality-508573,6.868055,100.465385,สงขลา,Songkhla,5
+openaq:497973,Songkhla Municipality Office-508574,7.207028,100.597014,สงขลา,Songkhla,5
+openaq:500068,Pai Municipality-510669,19.3591522,98.4364794,แม่ฮ่องสอน,Mae Hong Son,6
+openaq:523937,Tha Kham Municipality Office-534538,18.202222,98.597222,เชียงใหม่,Chiang Mai,11
+openaq:5545,Chulalongkorn Hospital-5545,13.729852,100.536501,กรุงเทพมหานคร,Bangkok,83
+openaq:5554536,Chalermprakiat Rama IX Park-5524468,15.173475,100.132105,ชัยนาท,Chainat,2
+openaq:5554537,Chaloem Phrakiat Park Station 80th birthday celebration-5524469,15.384667000000002,100.024992,อุทัยธานี,Uthai Thani,2
+openaq:5554538,Pattani Provincial Forestry Center-5524470,6.890637,101.250888,ปัตตานี,Pattani,2
+openaq:5554539,Phatthalung Provincial Stadium-5524471,7.6156514,100.0480234,พัทลุง,Phatthalung,2
+openaq:6165738,Wat Thong Song Tham Child Development Center-6135669,14.420548,100.595312,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,4
+openaq:6167893,Ruean Prathap Station-6137824,16.666299,98.657489,ตาก,Tak,5
+openaq:6167894,Tha Kham Municipality Office-6137825,18.752222,98.927778,เชียงใหม่,Chiang Mai,11
+openaq:6167895,Tree planting station-6137826,16.663994,98.664641,ตาก,Tak,5
+openaq:6176026,"iyachart Pattana School, under the royal patronage of Her Royal Highness Princess Maha Chakri Sirindhorn.-6145957",14.278780850523706,101.16093815767054,นครนายก,Nakhon Nayok,2
+openaq:701,Sukhothai Thammathirat Open University-701,13.907861,100.535641,นนทบุรี,Nonthaburi,3
+openaq:717,Pluakdaeng District Health Office-717,12.97378333,101.21285,ระยอง,Rayong,7
+openaq:7747,Hydrogeological Group Water Resources Regional Office4 khonkaen-7747,16.44538333,102.83525,ขอนแก่น,Khon Kaen,1
+openaq:7840,Laem Chabang Municipal Stadium-7840,13.11923333,100.91855,ชลบุรี,Chonburi,3
+openaq:7846,"Field Crop Research Center, Rayong-7846",12.73518333,101.13565,ระยอง,Rayong,7
+openaq:808649,"Natural Resources and Environment Office, Chainat-819250",15.173056,100.126944,ชัยนาท,Chainat,2
+openaq:906,Residence for Dept. of Mineral Resources-906,13.652141,100.531805,สมุทรปราการ,Samut Prakan,5

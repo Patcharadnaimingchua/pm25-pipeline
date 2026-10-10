@@ -1,0 +1,200 @@
+# PM2.5 Thailand Big Data Pipeline — local development stack
+#
+# Based on the official Apache Airflow 3.3.2 docker-compose.yaml, changed to:
+#   - LocalExecutor (no Redis / Celery workers: one machine, fewer GB of RAM)
+#   - our own image (docker/airflow/Dockerfile) with project requirements
+#   - project code mounted at /opt/airflow/src (PYTHONPATH)
+#   - MinIO (S3-compatible data lake) + PostgreSQL data warehouse
+#
+# Spark is added in Phase 3 (Week 4) under the "spark" profile — not needed for ingestion.
+#
+# This is a DEVELOPMENT stack. It is a single-node simulation, not a cloud deployment.
+
+x-airflow-common:
+  &airflow-common
+  # Built ONCE by the airflow-init service (`make up` builds it first). Every other service only
+  # uses the image. Giving all services a `build:` with the same image name makes Docker build it
+  # several times in parallel and fail with "image ... already exists".
+  image: pm25-airflow:3.3.2
+  pull_policy: never   # local image: never try to pull it from Docker Hub
+  env_file:
+    - .env
+  environment:
+    &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@airflow-db/airflow
+    AIRFLOW__CORE__FERNET_KEY: ${FERNET_KEY}
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__CORE__DEFAULT_TIMEZONE: 'utc'
+    AIRFLOW__CORE__EXECUTION_API_SERVER_URL: 'http://airflow-apiserver:8080/execution/'
+    AIRFLOW__API_AUTH__JWT_SECRET: ${AIRFLOW_JWT_SECRET}
+    AIRFLOW__API_AUTH__JWT_ISSUER: airflow
+    AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
+    AIRFLOW_CONFIG: '/opt/airflow/airflow-config/airflow.cfg'
+    PYTHONPATH: /opt/airflow/src
+    PM25_LEDGER_DIR: /opt/airflow/logs/ledger   # request ledger (evidence of polite fetching)
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./src:/opt/airflow/src
+    - ./config:/opt/airflow/project-config:ro
+    - ./seeds:/opt/airflow/seeds:ro          # station lists produced by the Week-1 scripts
+    - ./logs:/opt/airflow/logs
+    - ./airflow-config:/opt/airflow/airflow-config
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on:
+    &airflow-common-depends-on
+    airflow-db:
+      condition: service_healthy
+
+services:
+  # ---------- Airflow metadata DB (NOT the warehouse) ----------
+  airflow-db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - airflow-db-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    restart: always
+
+  airflow-apiserver:
+    <<: *airflow-common
+    command: api-server
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/api/v2/monitor/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    restart: always
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+    healthcheck:
+      test: ["CMD-SHELL", 'airflow jobs check --job-type SchedulerJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    restart: always
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-dag-processor:
+    <<: *airflow-common
+    command: dag-processor
+    healthcheck:
+      test: ["CMD-SHELL", 'airflow jobs check --job-type DagProcessorJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    restart: always
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-init:
+    <<: *airflow-common
+    build:
+      context: .
+      dockerfile: docker/airflow/Dockerfile
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /opt/airflow/{logs,dags,airflow-config}
+        /entrypoint airflow version
+        /entrypoint airflow config list >/dev/null
+        chown -R "${AIRFLOW_UID:-50000}:0" /opt/airflow/logs /opt/airflow/airflow-config
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_MIGRATE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: ${AIRFLOW_ADMIN_USER:-airflow}
+      _AIRFLOW_WWW_USER_PASSWORD: ${AIRFLOW_ADMIN_PASSWORD:-airflow}
+    user: "0:0"
+
+  airflow-cli:
+    <<: *airflow-common
+    profiles: ["debug"]
+    environment:
+      <<: *airflow-common-env
+      CONNECTION_CHECK_MAX_COUNT: "0"
+    command: ["bash", "-c", "airflow"]
+
+  # ---------- Data lake (S3-compatible) ----------
+  # MinIO stopped publishing free community Docker images in Oct 2025.
+  # Chainguard publishes a free, rebuilt MinIO image. If it is unavailable, see docs/runbook.md
+  # for the SeaweedFS fallback (also S3-compatible; only S3_ENDPOINT_URL changes).
+  minio:
+    image: cgr.dev/chainguard/minio:latest
+    command: ["server", "/data", "--console-address", ":9001"]
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    ports:
+      - "9000:9000"   # S3 API
+      - "9001:9001"   # web console
+    volumes:
+      - minio-volume:/data
+    restart: always
+
+  # Creates the lake bucket once (idempotent). Uses our Airflow image because it has boto3.
+  lake-init:
+    <<: *airflow-common
+    entrypoint: ["python", "-m", "pm25.lake.init_bucket"]
+    command: []
+    restart: "no"
+    depends_on:
+      minio:
+        condition: service_started
+
+  # ---------- Data warehouse ----------
+  postgres-dwh:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ${DWH_USER}
+      POSTGRES_PASSWORD: ${DWH_PASSWORD}
+      POSTGRES_DB: ${DWH_DB}
+    ports:
+      - "5433:5432"   # 5433 on the host so it never clashes with a local PostgreSQL; Power BI connects here
+    volumes:
+      - dwh-volume:/var/lib/postgresql/data
+      - ./sql/ddl:/docker-entrypoint-initdb.d:ro   # runs ONLY on first start of an empty volume
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "${DWH_USER}"]
+      interval: 10s
+      retries: 5
+    restart: always
+
+  dashboard:
+    image: nginx:alpine
+    ports:
+      - "8088:80"   # open http://localhost:8088
+    volumes:
+      - ./web:/usr/share/nginx/html:ro
+    restart: unless-stopped
+
+volumes:
+  airflow-db-volume:
+  minio-volume:
+  dwh-volume:

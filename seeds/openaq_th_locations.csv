@@ -1,0 +1,651 @@
+location_id,name,provider,latitude,longitude,is_mobile,is_monitor,datetime_first_utc,datetime_last_utc,parameters
+49,"Phahol Yothin Rd., Khet Chatuchak",Thailand,13.797855,100.551338,False,True,,,co|no2|pm10
+57,"Khlong Nueng, Khlong Luang",Thailand,14.040299305494,100.60873959621,False,True,2016-08-29T07:00:00Z,2020-05-16T08:00:00Z,co|no2|o3|pm10|so2
+66,"Bang Khun Thian, Chom Thong",Thailand,13.684229480854,100.44598735492,False,True,,,co|no2|o3|pm10
+94,"Din Daeng, Din Daeng",Thailand,13.775373291477,100.56892844813,False,True,2018-11-06T06:00:00Z,2020-09-15T07:00:00Z,co|no2|o3|pm10|so2
+135,Prabadang Rehabiltation Center,Air4Thai,13.664087,100.543436,False,True,2022-10-04T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+138,"Lat Phrao Rd., Wang Thonglang",Thailand,13.792635009230002,100.59607755884001,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+310,"Hiran Ruchi, Thon Buri",Thailand,13.732878086814,100.48601837802,False,True,2016-01-30T01:00:00Z,2020-09-02T03:00:00Z,co|no2|o3|pm10|so2
+418,Department of Disease Control,Air4Thai,13.853457,100.527132,False,True,2016-01-30T03:00:00Z,2022-02-11T02:00:00Z,co|no2|o3|pm10|pm25|so2
+619,"Bang Sao Thong, Bang Sao Thong",Thailand,13.567696531322,100.78940318041,False,True,2016-06-11T20:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+701,Sukhothai Thammathirat Open University,Air4Thai,13.907861,100.535641,False,True,2016-01-30T02:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+717,Pluakdaeng District Health Office,Air4Thai,12.97378333,101.21285,False,True,2016-01-30T01:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+798,"Din Daeng Rd., Din Daeng",Thailand,13.762406000000002,100.550598,False,True,2016-01-30T01:00:00Z,2020-09-23T03:00:00Z,co|no2|o3|pm10|so2
+863,"Noen Phra, Mueang",Thailand,12.7053545,101.1818364,False,True,2016-01-30T01:00:00Z,2020-09-22T08:00:00Z,co|no2|o3|pm10|so2
+906,Residence for Dept. of Mineral Resources,Air4Thai,13.652141,100.531805,False,True,2016-01-30T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+1007,"Pak Phriao, Mueang",Thailand,14.523536277394,100.92917127159,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,no2|o3|pm10|so2
+1205,"Khlong Chan, Bang kapi",Thailand,13.78152,100.636548,False,True,2016-01-30T01:00:00Z,2020-07-16T06:45:00Z,no2|o3|pm10|so2
+1486,"Mae Mo, Mae Mo",Thailand,18.279680637193,99.663144703624,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,no2|o3|pm10|so2
+1982,"Na Mueang, Mueang",Thailand,13.532554999999999,99.814873,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2167,Highway District,Air4Thai,13.7054879,100.315622,False,True,2016-02-11T11:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+2287,"Na Chak, Mueang",Thailand,18.12614,100.1654,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2295,"Pak Nam Pho, Mueang",Thailand,15.707848227166,100.1319285287,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2303,"Phaya Thai, Khet Phaya Thai",Thailand,13.780444,100.537798,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2304,"Sop Pat, Mae Mo",Thailand,18.247769049494,99.766891808156,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2311,"Ban Suan, Mueang",Thailand,13.360626576582,100.98454092591,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2325,"Wiang, Mueang",Thailand,19.190056,100.170326,False,True,2016-01-30T01:00:00Z,2019-03-06T02:00:00Z,co|no2|o3|pm10|so2
+2326,Thai Meteorological Department,Air4Thai,13.666183,100.605742,False,True,2016-01-30T01:00:00Z,2026-10-02T10:00:00Z,co|no2|o3|pm10|pm25|so2
+2328,"Natural Resources and Environment Office, Chiangrai",Air4Thai,19.909217,99.823467,False,True,2016-01-30T01:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+2342,"Makham Tia, Mueang",Thailand,9.1368079509525,99.320715944922,False,True,2016-01-30T02:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2352,Thonburi Power Sub-Station,Air4Thai,13.727622,100.486568,False,True,2022-10-04T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25
+2363,"Samae Dam, Bang Khun Thian",Thailand,13.66846068306,100.50581203933,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2364,"Pratu Chai, Phra Nakhon Si Ayutthayal",Thailand,14.349366683822,100.56853549578,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2369,"Aranyaprathet, Aranyaprathet",Thailand,13.689028480765,102.50620686398,False,True,2016-01-30T02:00:00Z,2020-09-23T04:00:00Z,no2|o3|pm10|so2
+2375,Bodindecha Sing Singhaseni School,Air4Thai,13.769634,100.614567,False,True,2016-01-30T02:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+2376,Samut Sakhon Wittayalai School,Air4Thai,13.5502631,100.2647676,False,True,2016-01-30T01:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+2377,"Na Phra Lan, Chaloem Phra Kiat",Thailand,14.683085094818,100.87513981078,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2407,Municipality Office Tungsadao,Air4Thai,13.5885,101.2863333,False,True,2016-01-30T01:00:00Z,2026-09-26T15:00:00Z,no2|o3|pm10|pm25|so2
+2411,Health Promotion Hospital Banthasri,Air4Thai,18.4267833,99.7576333,False,True,2016-01-30T01:00:00Z,2026-10-02T10:00:00Z,no2|o3|pm10|pm25|so2
+2421,"Sateng, Mueang",Thailand,6.5499937928872,101.27999862621,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+2429,"Chong Kham, Mueang",Thailand,19.304501021455,97.971525255487,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+5545,Chulalongkorn Hospital,Air4Thai,13.729852,100.536501,False,True,2016-08-18T05:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+5938,"Nai Mueang, Mueang",Thailand,18.564721437399,99.011144750057,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+6023,"Map Ta Phut, Mueang",Thailand,12.708296915688,101.16605097922998,False,True,2016-02-01T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+7009,"Bang Nak, Mueang",Thailand,6.427698,101.823568,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+7676,"Tha Pradu, Mueng",Thailand,12.680918537711,101.27357778829,False,True,2016-07-06T02:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+7747,Hydrogeological Group Water Resources Regional Office4 khonkaen,Air4Thai,16.44538333,102.83525,False,True,2016-01-30T01:00:00Z,2026-10-01T22:00:00Z,co|no2|o3|pm10|pm25|so2
+7840,Laem Chabang Municipal Stadium,Air4Thai,13.11923333,100.91855,False,True,2016-01-30T01:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+7843,"Nai Mueang, Mueang",Thailand,14.976785802969,102.10219652705,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+7845,"Hat Yai, Hat Yai",Thailand,7.010000800002,100.29000030001002,False,True,2016-01-30T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+7846,"Field Crop Research Center, Rayong",Air4Thai,12.73518333,101.13565,False,True,2016-04-06T03:00:00Z,2026-09-21T17:00:00Z,co|no2|o3|pm10|pm25|so2
+7847,"Talat Yai, Mueang",Thailand,7.8816363400512,98.394290593566,False,True,2016-03-06T01:00:00Z,2020-09-23T04:00:00Z,co|no2|o3|pm10|so2
+225566,Amphawan Temple or Ban Nong Muang Temple,Air4Thai,16.078641,103.634844,False,True,2021-04-29T19:00:00Z,2021-06-16T01:00:00Z,pm25
+225567,Maesai Health Office,Air4Thai,20.427325,99.883842,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225568,"Bang Khen District Office, Bangkok",Air4Thai,13.873603,100.595839,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225569,Health Promotion Hospital Bankhaohin,Air4Thai,13.054551,101.098128,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25
+225570,"Meteorological stations, Lampang",Air4Thai,18.2783333,99.5064666,False,True,2021-04-29T19:00:00Z,2026-10-02T10:00:00Z,o3|pm10|pm25|so2
+225571,"Bang Khun Thian District Office, Bangkok",Air4Thai,13.659908,100.435902,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225572,Kasertsart University,Air4Thai,13.839923,100.575632,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225573,Hat Yai Municipality,Air4Thai,7.020434,100.484088,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225574,"Phra Kanong District Office,  Bangkok",Air4Thai,13.691511,100.61457,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225575,Bangkok Noi Train Police Station,Air4Thai,13.759619,100.481137,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225576,Khai Surasinghanat,Air4Thai,12.648576,101.32245,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225577,"Bank of Ayuthaya Head Office Yan Nawa, Bangkok",Air4Thai,13.679226,100.54687,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225578,White Elephant Park,Air4Thai,6.546205,101.283137,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25
+225579,Yupparaj Wittayalai School,Air4Thai,18.7909333,98.99,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|pm10|pm25|so2
+225580,National Housing Authority Klongchan,Air4Thai,13.779873,100.646009,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,o3|pm10|pm25
+225582,"Khlong Toei District Office, Bangkok",Air4Thai,13.708488,100.583747,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225583,Mobile Air Quality Monitoring unit No.04,Air4Thai,18.804718,98.896851,False,True,2021-04-29T19:00:00Z,2024-12-27T09:00:00Z,pm10|pm25
+225584,Samut Songkhram Health Office,Air4Thai,13.428581,100.024664,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225585,Chom Nan Chaloem Phrakiat Public Park,Air4Thai,16.820833,100.258056,False,True,2021-04-29T19:00:00Z,2026-10-02T01:00:00Z,co|no2|o3|pm10|pm25|so2
+225586,Elderly Health Rehabilitation Center,Air4Thai,8.426923,99.961469,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225587,Water reservoir,Air4Thai,13.832076,100.057961,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225588,Nakhonban Phetchabun Cultural Hall,Air4Thai,16.419884,101.160035,False,True,2021-04-29T19:00:00Z,2021-06-15T02:00:00Z,pm25
+225589,Kanjanapisek Park,Air4Thai,13.691047,102.510442,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225590,"Sai Mai District Office, Bangkok",Air4Thai,13.896035,100.660628,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225591,"Ladphrao District Office, Bangkok",Air4Thai,13.803587,100.607535,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225592,"District Hall, Kamphaeng Phet",Air4Thai,16.48515,99.524454,False,True,2021-04-29T19:00:00Z,2022-07-01T19:00:00Z,pm25
+225593,Big C Supercenter Bang Na,Air4Thai,13.667987,100.635313,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225594,Phichit Provincial Government Center,Air4Thai,16.421049,100.3629,False,True,2021-04-29T19:00:00Z,2022-06-13T09:00:00Z,pm25
+225595,Bang Bon 5 Market,Air4Thai,13.639165,100.372958,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225596,"Sathon District Office, Bangkok",Air4Thai,13.707763,100.526787,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225597,"Municipality Office, Uttaradit",Air4Thai,17.62333,100.096111,False,True,2021-04-29T19:00:00Z,2021-06-23T23:00:00Z,pm25
+225598,Bu Yai Bai Hall Station,Air4Thai,13.917563,101.590529,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,o3|pm10|pm25|so2
+225599,Bangrak Lovely Plaza,Air4Thai,13.726136,100.528055,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225600,Trat Provincial Central Stadium,Air4Thai,12.234862,102.523721,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225601,Chaloem Phrakiat Park Station 80th birthday celebration,Air4Thai,15.373638,100.038725,False,True,2021-04-29T18:00:00Z,2026-05-21T16:00:00Z,co|no2|o3|pm10|pm25|so2
+225602,Municipal Waste Water Pumping Station,Air4Thai,14.979537,102.098335,False,True,2021-04-29T19:00:00Z,2026-10-02T10:00:00Z,co|no2|o3|pm10|pm25|so2
+225603,"Field Crop Research Center, Rayong",Air4Thai,12.73518333,101.13565,False,True,2021-04-29T18:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225604,Seacon Square,Air4Thai,13.695561,100.647615,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225605,Municipal Health Center,Air4Thai,7.884488,98.391283,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225606,Kanchanaburi Meteorological Station,Air4Thai,14.022376,99.536195,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+225607,"Environment Agency Section 14, Surat Thani",Air4Thai,9.126017,99.325145,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|o3|pm10|pm25|so2
+225609,Nakhonsawan Irrigation Project,Air4Thai,15.68623,100.110556,False,True,2021-04-29T19:00:00Z,2026-10-02T10:00:00Z,co|no2|o3|pm10|pm25|so2
+225610,"Bueng Kum District Office, Bangkok",Air4Thai,13.785212,100.669183,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225611,Health Promotion Hospital Maptaput,Air4Thai,12.70865,101.1659833,False,True,2021-04-29T18:00:00Z,2026-10-01T21:00:00Z,co|no2|o3|pm10|pm25|so2
+225612,Bansomdejchaopraya Rajabhat University,Air4Thai,13.732846,100.487662,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+225613,Lat Krabang Hospital,Air4Thai,13.72205,100.784069,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225614,Tha phra Intersection,Air4Thai,13.729431,100.474373,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225615,"Meteorological stations, Nakhon Phanom",Air4Thai,17.412345,104.7786123,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225616,Mukdahan Provincial Hall,Air4Thai,16.54637,104.72597,False,True,2021-04-28T20:00:00Z,2022-06-21T08:00:00Z,pm25
+225617,"Suan Luang District Office, Bangkok",Air4Thai,13.731051,100.651705,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225618,Provincial Office for Natural Resources and Environment Sakon Nakhon,Air4Thai,17.157502,104.131043,False,True,2021-04-29T19:00:00Z,2021-06-23T23:00:00Z,pm10|pm25
+225619,"Don Mueng District Office, Bangkok",Air4Thai,13.910986,100.594877,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225620,Na Phralan Police Station,Air4Thai,14.685833,100.871996,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225621,Thon Buri Market Sanam Luang 2,Air4Thai,13.746257,100.355099,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225622,"Huai Khwang District Office, Bangkok",Air4Thai,13.77682,100.579543,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225623,Environmental Office 8 ratchaburi,Air4Thai,13.52344,99.814082,False,True,2021-04-29T19:00:00Z,2026-09-19T13:00:00Z,co|o3|pm10|pm25
+225624,Odeon Circus,Air4Thai,13.737136,100.512734,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225625,"City Hall, Satun",Air4Thai,6.624747,100.066159,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225626,"Non-Formal Education Centre, Mea Sot",Air4Thai,16.734413,98.566961,False,True,2021-04-29T19:00:00Z,2026-09-16T23:00:00Z,co|no2|o3|pm10|pm25
+225627,"Municipality Office, Sukhothai",Air4Thai,17.014167,99.821667,False,True,2021-04-29T19:00:00Z,2022-07-02T08:00:00Z,pm25
+225628,"Government Complex, Rayong",Air4Thai,12.7066,101.18055,False,True,2021-04-29T19:00:00Z,2026-09-15T09:00:00Z,co|no2|o3|pm10|pm25|so2
+225629,Department of Disease Control,Air4Thai,13.852778,100.529444,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225630,"Meteorology Center, Phrae",Air4Thai,18.1283666,100.1624333,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25
+225631,National Economic and Social Development Council Office,Air4Thai,13.756281,100.514267,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225632,"Chomthong District Office, Bangkok",Air4Thai,13.677757,100.483861,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225633,Siam University,Air4Thai,13.718689,100.45391,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225634,"Rat Burana District Office,  Bangkok",Air4Thai,13.6821364,100.5060513,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225635,"Wang Thonglang District Office, Bangkok",Air4Thai,13.778981,100.622294,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225636,Khao Noi Fire Station,Air4Thai,14.526343,100.926047,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25
+225637,South Bangkok Power Plant,Air4Thai,13.618,100.5562,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225638,Samyan Mitrtown,Air4Thai,13.733136,100.52829,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225639,"City Hall, Narathiwat",Air4Thai,6.426853,101.823388,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25
+225640,Library under King Taksin Bridge,Air4Thai,13.719705,100.508782,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225641,"Din Dang, Bangkok",Air4Thai,13.7619223,100.558606,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225642,"Bang Phlat District Office, Bangkok",Air4Thai,13.793965,100.504956,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225643,Bangkok University Rangsit Campus,Air4Thai,14.03742,100.605216,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225644,Suphan Buri Provincial Central Stadium,Air4Thai,14.476214,100.086095,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225645,National Housing Authority Bangplee,Air4Thai,13.5705,100.7862867,False,True,2021-04-29T19:00:00Z,2026-10-02T05:00:00Z,co|o3|pm10|pm25|so2
+225646,Provincial Waterworks Authority Mae Moh,Air4Thai,18.2826333,99.6598166,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,o3|pm10|pm25|so2
+225647,"Phra Nakhon District Office, Bangkok",Air4Thai,13.76415,100.499077,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225648,"Natural Resources and Environment Office, Mae Hongson",Air4Thai,19.30455,97.97165,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25
+225649,"OTOP Center, Ubon Ratchathani",Air4Thai,15.245413,104.846219,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225650,The Government Public Relations Department,Air4Thai,13.783185,100.540489,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25
+225651,"Saphan Sung District Office, Bangkok",Air4Thai,13.768892,100.685743,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225652,Public Park to commemorate the sixth anniversary of His Majesty the King,Air4Thai,13.697252,100.497185,False,True,2021-04-29T19:00:00Z,2026-05-21T16:00:00Z,pm25
+225653,Chokchai Police Station,Air4Thai,13.7954248,100.5930298,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|pm10|pm25
+225654,"Environment Agency Section 13, Chonburi",Air4Thai,13.35461667,100.9792167,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25
+225655,"Meteorological Staions, Lamphun",Air4Thai,18.567194,99.038639,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225656,"Bang Sue District Office, Bangkok",Air4Thai,13.809596,100.537883,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225657,"child development centers, Betong",Air4Thai,5.763873,101.067903,False,True,2021-04-29T11:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225658,Bueng Kan District Office,Air4Thai,18.358249,103.652055,False,True,2021-04-29T19:00:00Z,2023-06-13T00:00:00Z,co|o3|pm10|pm25|so2
+225659,Kalasin Provincial Natural Resources and Environment Office,Air4Thai,16.442904,103.535221,False,True,2021-04-29T19:00:00Z,2023-06-13T00:00:00Z,pm25
+225660,"Chaloem Phrakiat Rama 9 Park Min buri, Bangkok",Air4Thai,13.813578,100.73208,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225661,"Nong Thin Public Park, Nong Khai",Air4Thai,17.87748,102.728925,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225663,Buriram City Hall,Air4Thai,14.945452,103.105896,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225664,Chaiyaphum City Hall,Air4Thai,15.808061,102.031993,False,True,2021-04-29T19:00:00Z,2023-06-13T00:00:00Z,pm25
+225666,"Phayao Provincial, Phayao",Air4Thai,19.200226,99.893048,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25
+225667,Mahaisawan Intersection,Air4Thai,13.70515,100.48465,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225668,"Bang Kapi District Office, Bangkok",Air4Thai,13.766478,100.647785,False,True,2021-04-29T19:00:00Z,2026-09-26T00:00:00Z,pm25
+225669,"City Hall, Chiangmai",Air4Thai,18.840732,98.96978,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+225671,"Khlong Sam Wa District Office, Bangkok",Air4Thai,13.859911,100.704002,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225672,Suan Sayam-Ram Intra Intersection,Air4Thai,13.813844,100.686594,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225673,National Housing Authority Dindaeng,Air4Thai,13.76251667,100.5502,False,True,2021-04-29T18:00:00Z,2026-10-02T10:00:00Z,co|no2|o3|pm10|pm25
+225674,"Municipality Office, Nan",Air4Thai,18.7888833,100.7763166,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225675,Meteorological Station Lopburi,Air4Thai,14.800032,100.628548,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+225676,Ayutthaya Witthayalai School,Air4Thai,14.35222,100.565325,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,no2|o3|pm10|pm25|so2
+225677,"Lak Si District Office, Bangkok",Air4Thai,13.887395,100.579247,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225678,"Bang Khae District Office, Bangkok",Air4Thai,13.696314,100.409049,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225679,"Dusit District Office, Bangkok",Air4Thai,13.776664,100.520982,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225680,Sri Nakhon Khuean Khan Park,Air4Thai,13.696681,100.563631,False,True,2021-04-29T19:00:00Z,2022-06-01T03:00:00Z,pm25
+225681,"Soi Sukhumwit 63 Roadside Wattana, Bangkok",Air4Thai,13.722096,100.584559,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225682,King Mongkut's University of Technology Thonburi,Air4Thai,13.651004,100.496673,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225683,"Nong Chok District Office, Bangkok",Air4Thai,13.855362,100.86267,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225684,Army Apartment Sam Sen,Air4Thai,13.783554,100.5344645,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm25
+225685,National Housing  Huaykwang,Air4Thai,13.77553,100.569195,False,True,2021-04-29T19:00:00Z,2025-04-25T10:00:00Z,o3|pm10|pm25
+225686,Highway NO.3902 km.13 +600,Air4Thai,13.636514,100.414262,False,True,2021-04-29T19:00:00Z,2026-10-02T05:00:00Z,co|no2|o3|pm10|pm25
+225687,"Provincial Health Office, Loei",Air4Thai,17.452765,101.728715,False,True,2021-04-29T19:00:00Z,2021-06-23T23:00:00Z,pm10|pm25
+225688,"Ratchathewi District Office, Bangkok",Air4Thai,13.7590851,100.5345788,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225689,Phutthamonthon 1 - Borommaratchachonnani Intersection,Air4Thai,13.780778,100.426727,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225690,Agricultural Office,Air4Thai,12.67155,101.2758667,False,True,2021-04-29T19:00:00Z,2025-01-01T13:00:00Z,co|no2|o3|pm10|pm25|so2
+225691,"Ma Charean Roadside, Petcha Kasem 8, Nong Khaem",Air4Thai,13.705582,100.343164,False,True,2021-04-29T19:00:00Z,2026-10-02T11:00:00Z,pm10|pm25
+225692,"Health Promotion Hospital Sob Pad, Lampang",Air4Thai,18.2508166,99.76395,False,True,2021-04-29T19:00:00Z,2026-10-02T10:00:00Z,co|no2|o3|pm10|pm25|so2
+225693,"Debaratana Vejjanukul Hospital, Mae Chaem",Air4Thai,18.498333,98.379444,False,True,2021-04-29T19:00:00Z,2026-06-02T06:00:00Z,pm10|pm25
+228541,"60th Anniversary Queen Sirikit Public Park, Loei",Air4Thai,17.48462,101.732734,False,True,2021-06-24T01:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+228542,"Nong Prajak Public Park, Udon Thani",Air4Thai,17.414174,102.780926,False,True,2021-06-24T02:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+228543,"72nd Anniversary King Bhumibol Public Park, Uttaradit",Air4Thai,17.631352,100.09896,False,True,2021-06-24T01:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+228544,"Meteorological stations, Sakon Nakhon",Air4Thai,17.15662,104.133216,False,True,2021-06-24T02:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+228627,"Polytechnic College, Trang",Air4Thai,7.570238,99.588743,False,True,2021-06-25T21:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+229077,Suvarnabhumi Airport Free Zone,Air4Thai,13.702778,100.75,False,True,2021-07-06T02:00:00Z,2021-08-04T14:00:00Z,co|no2|o3|pm10|pm25|so2
+229131,King Kaew Temple,Air4Thai,13.676111,100.715,False,True,2021-07-07T01:00:00Z,2021-08-04T03:00:00Z,co|o3|pm10|pm25|so2
+229190,Grand Monaco Village,AirNow,13.672332,100.698602,False,True,2021-07-08T06:00:00Z,2024-10-31T09:00:00Z,pm25
+229191,Lalin Greenville Village,Air4Thai,13.702383,100.698808,False,True,2021-07-08T05:00:00Z,2021-07-25T08:00:00Z,pm25
+270250,Phetbura garden,Air4Thai,16.418417,101.156556,False,True,2021-10-20T04:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+270292,Ban Pa Bong School,Air4Thai,19.336111,98.954444,False,True,2021-10-24T04:00:00Z,2022-06-08T02:00:00Z,pm10|pm25
+270695,"Taksin Stadium, Muang Tak Municipality",Air4Thai,16.883611,99.123056,False,True,2021-11-04T14:00:00Z,2022-06-26T00:00:00Z,pm10|pm25
+270702,Bueng Planchai,Air4Thai,16.057448,103.651056,False,True,2021-11-12T10:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+270780,Singburi City Hall,Air4Thai,14.897778,100.411944,False,True,2021-12-23T08:00:00Z,2022-07-07T08:00:00Z,co|no2|o3|pm10|pm25
+270824,"Ban Pang, Bang Sai, Phra Nakhon Si Ayutthaya",Air4Thai,14.235833,100.485556,False,True,2022-01-12T04:00:00Z,2022-01-13T05:00:00Z,pm25
+277658,"Natural Resources and Environment Office, Sing Buri",Air4Thai,14.889702,100.397979,False,True,2022-01-21T08:00:00Z,2023-10-03T02:00:00Z,co|no2|o3|pm25|so2
+278507,Mae Sariang District Public Health Office,Air4Thai,18.163056,97.917778,False,True,2022-01-31T07:00:00Z,2024-06-01T06:00:00Z,pm25
+278637,Chiang Khong District Public Health Office,Air4Thai,20.258611,100.407778,False,True,2022-02-04T07:00:00Z,2022-11-24T05:00:00Z,pm10|pm25
+289762,Sisaket City Hall,Air4Thai,15.11879,104.322607,False,True,2022-02-17T05:00:00Z,2023-11-02T18:00:00Z,no2|o3|pm10|pm25|so2
+290775,Amnat Charoen Clock Tower,Air4Thai,15.863523,104.627401,False,True,2022-02-18T06:00:00Z,2023-01-26T01:00:00Z,co|o3|pm10|pm25|so2
+308183,Kaeng Krachan National Park,Air4Thai,12.884444,99.632778,False,True,2022-04-08T04:00:00Z,2023-05-02T08:00:00Z,pm25
+319752,Si Sawat District Office,Air4Thai,14.600278,99.114444,False,True,2022-04-24T09:00:00Z,2022-06-10T03:00:00Z,pm10|pm25
+351927,Le Thai Community Park,Air4Thai,17.006059,99.81927,False,True,2022-06-13T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+353740,Chanthaburi Meteorological Station,Air4Thai,12.6095704,102.1040804,False,True,2022-07-05T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+353741,"Phichit Provincial , Phichit",Air4Thai,16.442554,100.322756,False,True,2022-07-05T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+353742,Mukdahan Provincial Stadium,Air4Thai,16.54257,104.7192,False,True,2022-07-05T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+353743,Sirichit Thai Cultural Conservation Ground,Air4Thai,16.475374,99.525425,False,True,2022-07-05T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+354124,Hua Hin Weather Station Prachuap Khiri Khan Meteorological Station,Air4Thai,12.577835,99.953663,False,True,2022-07-09T03:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+368390,Thawee Wanarom Park,Air4Thai,13.7435329,100.3526893,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368391,Suan Luang Rama IX,Air4Thai,13.6881393,100.6579657,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368392,Ramintra Sports Park,Air4Thai,13.8778763,100.6207085,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368393,Rommani Thungsikan Park,Air4Thai,13.9288678,100.5684666,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368394,Lumpini park,Air4Thai,13.732225,100.5448381,False,True,2022-10-25T01:00:00Z,2026-10-02T10:00:00Z,pm25
+368395,Thonburirom Park,Air4Thai,13.6502295,100.4909771,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368396,Queen Sirikit Park,Air4Thai,13.8055472,100.5488338,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368397,Rama VIII Park,Air4Thai,13.7693437,100.4945337,False,True,2022-10-25T02:00:00Z,2026-10-02T11:00:00Z,pm25
+368398,Santiphap Park,Air4Thai,13.7631081,100.541407,False,True,2022-10-25T01:00:00Z,2023-01-22T00:00:00Z,pm25
+368399,Benjakitti Park,Air4Thai,13.7328791,100.5600172,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368400,"Bang Kho Laem District Office, Bangkok (Mobile)",Air4Thai,13.69304,100.50244,False,True,2022-10-25T01:00:00Z,2025-03-19T21:00:00Z,pm25
+368401,Nong Chok Park,Air4Thai,13.855656,100.8585539,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368402,Serithai Park,Air4Thai,13.7855673,100.6733359,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368403,Chatuchak Park,Air4Thai,13.802546,100.5509191,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368404,"60th Anniversary of Queen Sirikit Park ,Kheha Romklao Road, Lat Krabang, Bangkok",Air4Thai,13.7631141,100.7302101,False,True,2022-10-25T01:00:00Z,2026-09-26T02:00:00Z,pm25
+368405,Bang Khae Phirom Park,Air4Thai,13.6863478,100.3844036,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368406,80th Anniversary Commemoration Park,Air4Thai,13.7716446,100.4681128,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368407,Wacchirabenchatat Park,Air4Thai,13.8118516,100.5535825,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+368408,Phra Nakhon Park,Air4Thai,13.7201042,100.7807077,False,True,2022-10-25T01:00:00Z,2026-09-26T00:00:00Z,pm25
+368485,Benchasiri Park,Air4Thai,13.7304916,100.5684634,False,True,2022-10-25T01:00:00Z,2026-10-02T11:00:00Z,pm25
+385742,Chaloem Phra Kiat Water Park,Air4Thai,14.606306,100.453589,False,True,2022-11-24T01:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+387511,Wiang Subdistrict Disaster Prevention and Mitigation Center,Air4Thai,20.2575,100.4025,False,True,2022-11-24T05:00:00Z,2026-06-01T04:00:00Z,pm10|pm25
+387660,Mueang Na Subdistrict Municipality Office,Air4Thai,19.593889,98.961667,False,True,2022-11-24T10:00:00Z,2026-05-31T10:00:00Z,pm10|pm25
+388656,"Chiang Mai Provincial Administrative Organization Office, Intersection (Southern Area)",Air4Thai,18.175,98.630833,False,True,2022-11-25T09:00:00Z,2023-01-25T02:00:00Z,pm10|pm25
+388962,Li District Office,Air4Thai,17.802222,98.949722,False,True,2022-11-26T00:00:00Z,2026-05-23T10:00:00Z,pm10|pm25
+414787,Tha Yang Subdistrict Municipality Office,Air4Thai,12.965556,99.891944,False,True,2022-12-15T06:00:00Z,2023-06-03T12:00:00Z,pm25
+418809,National Housing Authority Klongchan,Air4Thai,13.76121,100.517035,False,True,2022-08-16T06:00:00Z,2026-01-26T02:00:00Z,pm25
+418810,"Southeast Asia University, Bangkok (Mobile)",Air4Thai,13.70735,100.35391,False,True,2022-09-04T23:00:00Z,2022-09-04T23:00:00Z,pm25
+429157,Nong Bua Lamphu Meteorological Station,Air4Thai,17.226111,102.424167,False,True,2022-12-22T01:00:00Z,2023-06-08T12:00:00Z,pm25
+429261,Tak Provincial Administrative Organization,Air4Thai,16.877778,99.139722,False,True,2022-12-22T03:00:00Z,2023-06-02T06:00:00Z,pm25
+488924,Keth,HabitatMap,16.185101576,103.302658349,False,False,,,pm25
+497972,Phatong Municipality,Air4Thai,6.868055,100.465385,False,True,2023-01-19T04:00:00Z,2023-07-21T06:00:00Z,pm25
+497973,Songkhla Municipality Office,Air4Thai,7.207028,100.597014,False,True,2023-01-19T04:00:00Z,2023-07-21T13:00:00Z,pm25
+500068,Pai Municipality,Air4Thai,19.3591522,98.4364794,False,True,2023-01-20T10:00:00Z,2026-02-09T12:00:00Z,pm10|pm25
+523937,Tha Kham Municipality Office,Air4Thai,18.202222,98.597222,False,True,2023-01-26T00:00:00Z,2023-06-02T04:00:00Z,pm10|pm25
+808649,"Natural Resources and Environment Office, Chainat",Air4Thai,15.173056,100.126944,False,True,2023-04-04T11:00:00Z,2025-06-01T00:00:00Z,pm25
+921162,Suan Sayam-Ram Intra Intersection,Air4Thai,13.799395,100.682464,False,True,2022-10-04T19:00:00Z,2022-10-04T19:00:00Z,pm25
+1172475,"Natural Resource and Environment, Phatthalung",Air4Thai,7.614396,100.113766,False,True,2023-07-06T00:00:00Z,2025-06-30T21:00:00Z,pm10|pm25
+1180402,Ban Padang Community School,Air4Thai,6.666143963588895,100.32734858721086,False,True,2023-07-07T18:00:00Z,2024-02-15T09:00:00Z,pm10|pm25
+1180409,Provincial Natural Resources and Environmental Office,Air4Thai,6.890639752808323,101.25106087293467,False,True,2023-07-07T17:00:00Z,2024-06-13T20:00:00Z,pm10|pm25
+1180415,Provincial Natural Resources and Environmental Office,Air4Thai,6.890639752808323,101.25106087293467,False,True,2024-06-13T22:00:00Z,2025-06-30T21:00:00Z,pm10|pm25
+1235990,"Kasetsart university laboratory school 1, Chatuchak, Bangkok",AirGradient,13.850829210818615,100.56881779163187,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1235996,"Vieng Nua, Pai",AirGradient,19.374620435850545,98.44561078410078,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1235999,NARIT ASTROPARK (Parking),AirGradient,18.85345541310349,98.95760600870581,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236002,"The National Science Museum, Thailand (NSM)",AirGradient,14.059029941320787,100.72229270474135,False,False,2023-07-15T13:00:00Z,2024-09-18T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236013,"Soemngamwitthayakhom School 2, Some-Ngam, Lampang",AirGradient,18.279805533636747,99.48051196520771,False,False,2023-07-15T13:00:00Z,2026-10-02T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236014,NARIT​-OPD,AirGradient,18.85275424506312,98.95834692689932,False,False,2023-07-15T13:00:00Z,2025-06-07T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236022,แม่กวง,AirGradient,18.8266136,99.0523185,False,False,2023-07-15T13:00:00Z,2026-09-04T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236024,สันโป่ง,AirGradient,18.9375111,98.9566944,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236034,"Watkhemapirataram school 1, Mueang, Nonthaburi",AirGradient,13.823306342907303,100.50341971861289,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236035,"Pathumthep witthayakarn school 1, Mueang, Nong Khai",AirGradient,17.866408250878237,102.74806318240316,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236038,"Nuannoradit school 2, Phasi Charoen, Bangkok",AirGradient,13.723905641056973,100.46672554559318,False,False,2023-07-15T13:00:00Z,2025-07-31T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236040,"Kaenoisuksa School 1, Chiang Dao, Chiang Mai",AirGradient,19.394767432705724,98.92874614493202,False,False,2023-07-15T13:00:00Z,2026-09-07T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236044,"Be Leaf Resort, Phuket",AirGradient,8.028638989565119,98.35441155579035,False,False,2023-07-15T13:00:00Z,2025-09-05T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236050,Prem Tinsulanonda International School 1,AirGradient,18.96255421231335,98.91562786546136,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236053,"Suwannaramwittayakom school 1, Bangkok Noi, Bangkok",AirGradient,13.76312579330489,100.47612901861227,False,False,2023-07-15T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236056,Waterfall Road,AirGradient,8.028016264564139,98.35527762231732,False,False,2023-07-15T13:00:00Z,2023-09-26T01:00:00Z,pm25|temperature
+1236057,"Suwannakhuhapittayasan school 1, Suwan Khuha, Nong Bua Lamphu",AirGradient,17.23816238132771,102.43412910724983,False,False,2023-07-15T13:00:00Z,2025-02-26T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236063,"intERLab, Pathumthani, Thailand",AirGradient,14.077551603647665,100.61278750267229,False,False,2023-07-15T13:00:00Z,2026-10-01T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236066,NARIT ASTROPARK (Research building),AirGradient,18.851438300930976,98.95771486398863,False,False,2023-07-15T13:00:00Z,2025-02-25T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236067,"Nonghanwittaya school 1, Nong Han, Udon Thani",AirGradient,17.77979422107294,103.71065058858952,False,False,2023-07-15T13:00:00Z,2024-03-02T03:00:00Z,pm25|temperature
+1236069,Rajaphat Yala University,AirGradient,6.549012748332888,101.2896306111374,False,False,2023-07-15T13:00:00Z,2026-02-16T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236072,"Srikranuanwittayakom school 1, Kranuan, Khon Kaen",AirGradient,16.721984416175946,103.08173493955674,False,False,2023-07-15T13:00:00Z,2025-12-03T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236074,"Mahapruttaram girl's school 2, Bang Rak, Bangkok",AirGradient,13.732667711114303,100.51601151861196,False,False,2023-07-15T13:00:00Z,2025-07-03T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236075,"Nongnangpittayakom school 1, Tha Bo, Nong Khai",AirGradient,17.83218858266286,102.56660888425778,False,False,2023-07-15T13:00:00Z,2024-10-20T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1236078,"Waengpittiayakhom school 1, Sawang Daen Din, Sakon Nakhon ",AirGradient,17.4689566685271,103.48612609959888,False,False,2023-07-15T13:00:00Z,2024-11-08T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1290682,Ranong Municipal office,Air4Thai,9.961849,98.639341,False,True,2023-07-20T01:00:00Z,2026-06-13T07:00:00Z,pm10|pm25
+1299596,Phangnga Provincial Government Center,Air4Thai,8.424964,98.528719,False,True,2023-07-22T04:00:00Z,2026-06-12T08:00:00Z,pm10|pm25
+1305707,"Khunyuam Wittaya School 2, Khunyuam, Maehongson",AirGradient,18.837399394128656,97.93995071660461,False,False,2023-07-23T03:00:00Z,2025-06-08T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1329696,"Ubolratanaphitthayakhom school 2, Ubonrat, Khon Kaen",AirGradient,16.7873497901495,102.6332544864775,False,False,2023-07-27T05:00:00Z,2023-08-08T08:00:00Z,pm25|temperature
+1405439,"Chomthong School 1, Chomthong, Chiang Mai",AirGradient,18.435156957109033,98.67718182473789,False,False,2023-08-09T02:00:00Z,2026-06-11T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1641552,วังหมุ้น,AirGradient,18.945298569548378,98.97347979467268,False,False,2023-09-30T10:00:00Z,2026-04-03T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1641558,Prem Tinsulanonda International School 2,AirGradient,18.966512871928927,98.91508369562034,False,False,2023-09-30T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1646752,ดาดฟ้า,AirGradient,18.932618966437307,98.96445032014383,False,False,2023-10-01T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1650686,Mueang Chaiyaphum Municipality Stadium,Air4Thai,15.81148,102.02281,False,True,2023-10-02T10:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1650687,Phaya Thaen Public Park,Air4Thai,15.783861,104.154639,False,True,2023-10-02T10:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1650688,SINGBURI SCHOOL,Air4Thai,14.8933874,100.4130773,False,True,2023-10-02T10:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1698943,Savvi Condominium Phahol-Ari,AirGradient,13.778406648867108,100.54654472577135,False,False,2023-10-13T03:00:00Z,2025-10-27T20:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1753562,บ้านร้องเกิด,AirGradient,18.92786395211318,98.96541049234524,False,False,2023-10-25T11:00:00Z,2025-03-30T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1753563,ดวงดี,AirGradient,18.91977780483509,98.95279736395602,False,False,2023-10-25T11:00:00Z,2025-03-30T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1753564,แก้วสา,AirGradient,18.928286035684813,98.94445179435797,False,False,2023-10-25T11:00:00Z,2025-03-30T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1785688,Amnat Charoen Municipality,Air4Thai,15.8758,104.6223,False,True,2023-11-01T16:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1785690,KAENG DON KLANG PARK,Air4Thai,16.4436,103.513,False,True,2023-11-01T16:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+1785691,Nakhon Nayok Municipality Public Health Service Center,Air4Thai,14.20422,101.21509,False,True,2023-11-01T16:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1785692,Nong Bueng Kan Park,Air4Thai,18.362008,103.65977,False,True,2023-11-01T16:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1785693,Sisaket Meteorological Center,Air4Thai,15.086836199999999,104.32647460000001,False,True,2023-11-01T16:00:00Z,2023-11-23T06:00:00Z,co|no2|o3|pm25|so2
+1785694,Surin Meteorological Center,Air4Thai,14.8762222,103.4965833,False,True,2023-11-01T16:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1861095,Wiang Subdistrict Disaster Prevention and Mitigation Center,Air4Thai,18.804894,98.900698,False,True,2023-11-20T05:00:00Z,2026-06-02T06:00:00Z,pm25
+1861445,"Fangchanupathum School 1, Fang, Chiang Mai",N/A,19.863943477644817,99.17937755730453,False,False,2023-11-20T07:00:00Z,2026-08-21T14:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1864570,"Provincial Electricity Authority, Hot District Branch",Air4Thai,18.172495,98.61069,False,True,2023-11-21T02:00:00Z,2026-06-02T06:00:00Z,pm25
+1873401,Sisaket Meteorological Center,Air4Thai,15.087087,104.326787,False,True,2023-11-23T08:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+1877127,Acoem Thailand,AirGradient,13.806197714948992,100.6154652387912,False,False,2023-11-24T08:00:00Z,2024-06-07T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1894642,Savvi Condominium Phahol-Ari,Clarity,13.77865,100.54655,False,False,2023-11-28T17:09:02Z,2026-08-31T19:52:28Z,pm1|pm10|pm25|temperature
+1896059,Pai Airport,Air4Thai,19.364055,98.436205,False,True,2023-11-29T01:00:00Z,2023-11-29T03:00:00Z,pm25
+1896763,Pai Airport,Air4Thai,19.369637,98.43596,False,True,2023-11-29T05:00:00Z,2026-06-02T06:00:00Z,pm10|pm25
+1935353,Chiang Mai,AirGradient,18.77435504104218,98.98365627447588,False,False,2023-12-08T18:00:00Z,2025-07-22T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+1993935,Nong Bua Lamphu Provincial Administrative Organization,Air4Thai,17.193824,102.4585009,False,True,2023-12-22T01:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+1993936,"Somdet Phra Srinagarindra Park, Roi Et",Air4Thai,16.057537,103.651372,False,True,2023-12-22T01:00:00Z,2024-06-04T15:00:00Z,pm25
+2041043,Mae Ann,AirGradient,18.971315125096538,98.8784122467041,False,False,2024-01-02T05:00:00Z,2026-02-12T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2088223,Government House,Air4Thai,13.763911018899341,100.51289004935268,False,True,2024-01-13T01:00:00Z,2024-01-13T05:00:00Z,pm10|pm25
+2124016,Wiang Nuea Beverly Hills Goat Farm,AirGradient,19.385584,98.459714,False,False,2024-01-21T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2132593,Phetchaburi Municipality,Air4Thai,13.11249031,99.9461325,False,True,2024-01-23T06:00:00Z,2026-07-02T02:00:00Z,pm25
+2136949,Pai: Wednesday Market,AirGradient,19.351845,98.4411552,False,False,2024-01-24T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2142493,Wiang Nuea Beverly Hills Hua Chang Dam,AirGradient,19.383934,98.464782,False,False,2024-01-25T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2142801,Wiang Nuea: Wat Phra Phutthabat,AirGradient,19.3910772,98.4534912,False,False,2024-01-25T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2146217,Pai: Seng Tong Market,AirGradient,19.3573394,98.4381079,False,False,2024-01-26T09:00:00Z,2026-06-19T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2147304,Tin That,N/A,19.3172193,98.439397,False,False,2024-01-26T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2151718,Wiang Nuea Moat,AirGradient,19.3747778,98.4453889,False,False,2024-01-27T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2154067,Kung Kaeng: Pai Munchkins Club / PLearn Pai Bilingual Learning Center,AirGradient,19.342108,98.435391,False,False,2024-01-28T04:00:00Z,2026-08-29T15:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2155602,Mae Hi: Bueng Pai Farm,AirGradient,19.344337,98.446422,False,False,2024-01-28T12:00:00Z,2026-05-01T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2158149,Pai: Dr. Neung Clinic near PTT gas station,AirGradient,19.355492,98.436671,False,False,2024-01-29T02:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2165656,Mae Yen: Ing Doi Guesthouse,AirGradient,19.355916,98.448666,False,False,2024-01-30T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2169936,Hang Dong / Sameong,AirGradient,18.719434,98.930183,False,False,2024-01-31T10:00:00Z,2025-03-23T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2174592,Chiang moi,AirGradient,18.78987,98.99583,False,False,2024-02-01T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2181641,ทองหล่อ 8,AirGradient,13.7316,100.5834,False,False,2024-02-01T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2297552,Tha Pai Hot Springs,AirGradient,19.307811,98.473538,False,False,2024-02-02T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2315448,Muang Soi Health Center,AirGradient,19.395894,98.404624,False,False,2024-02-02T10:00:00Z,2026-06-30T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2327978,Mae Hi: Pittalew Art Gallery,AirGradient,19.344769,98.453281,False,False,2024-02-02T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2340282,Paina Paita Home (near Coffee In Love),AirGradient,19.336754,98.43217,False,False,2024-02-02T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2375197,Mae Khong Border Patrol,AirGradient,19.385612,98.437128,False,False,2024-02-03T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2379288,Sahakorn 5,AirGradient,18.857987,99.261237,False,False,2024-02-04T06:00:00Z,2025-10-01T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2384279,Mae Na Toeng School,AirGradient,19.393767,98.42108,False,False,2024-02-05T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2384280,Wiang Nuea Moo 8 Mayor,AirGradient,19.379253,98.445529,False,False,2024-02-05T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2384585,Mae Khong Health Center,AirGradient,19.385735,98.439518,False,False,2024-02-05T10:00:00Z,2026-06-30T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2393909,Pai: NT/TOT office near Pai Hospital,AirGradient,19.3621389,98.4375556,False,False,2024-02-07T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2402491," Wat Khlong Toey Nai School, Bangkok",Clarity,13.71037,100.56115,False,False,2024-02-09T09:36:14Z,2026-08-31T20:01:57Z,pm1|pm10|pm25|temperature
+2429011,The Mud House by CMG,AirGradient,18.7069018,98.9153218,False,False,2024-02-15T06:00:00Z,2024-02-20T22:00:00Z,pm25|temperature
+2429963,Mae Ping Health Center,AirGradient,19.28607,98.468214,False,False,2024-02-15T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2432814, ไดมอนด์,N/A,18.941970789965023,98.94292144786002,False,False,2024-02-16T01:00:00Z,2024-03-11T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2439091,Wiang Nuea: Mon Far Pai Cottages,AirGradient,19.369755,98.449955,False,False,2024-02-17T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2439859,Wat Mo Paeng,AirGradient,19.379659,98.396488,False,False,2024-02-17T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2457250,Muang Rae Police Box,AirGradient,19.241398,98.44963,False,False,2024-02-21T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2461311,The Mud House by CMG,AirGradient,18.70707013718418,98.91531793782238,False,False,2024-02-22T09:00:00Z,2026-08-07T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2470105,Pai: Paiformance Gym,AirGradient,19.353232,98.438033,False,False,2024-02-24T08:00:00Z,2024-06-26T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2473770,"Talingchan, Bangkok, Thailand",AirGradient,13.771228,100.434618,False,False,2024-02-25T04:00:00Z,2024-03-16T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2474515,Thung Yao South (near Two Huts),AirGradient,19.317546,98.448532,False,False,2024-02-25T08:00:00Z,2026-05-30T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2492986,The Hideaway Village (near Wat Sop Phaem),AirGradient,19.299787,98.443144,False,False,2024-02-29T10:00:00Z,2026-03-19T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2510432,Pa Yang School,AirGradient,19.395591,98.387011,False,False,2024-03-04T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2523394,Pai Immigration ,AirGradient,19.361656,98.438967,False,False,2024-03-07T06:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2523721,Prachinburi Provincial Public Health,Air4Thai,14.053201,101.369361,False,True,2024-03-07T07:00:00Z,2024-03-07T08:00:00Z,pm25
+2524053,Prachinburi Provincial Public Health,Air4Thai,14.0449046434287,101.3689396242558,False,True,2024-03-07T09:00:00Z,2025-04-09T02:00:00Z,pm10|pm25
+2575375,สันโป่ง,AirGradient,18.941970789965023,98.94292144786002,False,False,2024-03-11T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2603964,,AirGradient,13.771263,100.434679,False,False,,,pm1|pm10|pm25|relativehumidity|temperature|um003
+2608457,"Talingchan, Bangkok, Thailand",AirGradient,13.771263,100.434679,False,False,2024-03-27T08:00:00Z,2024-03-29T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2674799,"Talingchan, Bangkok, Thailand",AirGradient,13.771263,100.434679,False,False,2024-03-29T10:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692433,Soi Rimthang Rotfai 3,AirGradient,13.723917563386962,100.4896320971784,False,False,2024-04-01T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692436,Soi Naradhiwas Rajanagarindra 17/1,AirGradient,13.714227217771464,100.53463637224243,False,False,2024-04-01T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692437,Nana Nue Pier,AirGradient,13.74828616518107,100.55400303589226,False,False,2024-04-01T14:00:00Z,2026-08-31T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692438,Soi Wong Sawang 3,AirGradient,13.818829640186134,100.5170517172806,False,False,2024-04-01T14:00:00Z,2025-04-05T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692439,Wanglang Rd.,AirGradient,13.759764,100.474672,False,False,2024-04-01T14:00:00Z,2025-12-21T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692642,Suriya Thep Alley,AirGradient,13.749383457371344,100.47691024942468,False,False,2024-04-01T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692643,Tang Trong Chit Alley,AirGradient,13.768026699364972,100.46533225829832,False,False,2024-04-01T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692644,Kiak Kai Intersection,AirGradient,13.79695026631216,100.5222724774432,False,False,2024-04-01T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2692645,Vibhavadi Rangsit 11 Alley Lane 10,AirGradient,13.824551234939227,100.55028307691722,False,False,2024-04-01T15:00:00Z,2026-09-25T22:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2694254,Soi Kheha Pattana 1,AirGradient,13.709940984188846,100.57602189955097,False,False,2024-04-02T00:00:00Z,2025-03-07T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2739142,MSK Talat,AirGradient,16.1033,103.1733,False,False,2024-04-10T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2806604,โรงเรียนมีชัยพัฒนา 1,AirGradient,14.943276639744417,102.83871536708331,False,False,2024-04-23T05:00:00Z,2026-07-12T20:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2806608,โรงเรียนราชประชานุเคราะห์ 51,AirGradient,14.666787304554926,102.78690436763945,False,False,2024-04-23T05:00:00Z,2024-12-10T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2807918,ป่ากล้วย,AirGradient,18.935269692344082,98.96733918346216,False,False,2024-04-23T09:00:00Z,2024-11-25T00:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811479,โรงเรียนบ้านหนองโบสถ์ ,AirGradient,14.631278247689572,102.71985109647431,False,False,2024-04-24T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811482,โรงเรียนบ้านซำแฮด,AirGradient,14.85172457209533,102.91012168884586,False,False,2024-05-15T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811521,โรงเรียนรวมมิตรวิทยา,AirGradient,14.944884280530838,102.76767049845512,False,False,2024-04-24T04:00:00Z,2024-07-17T12:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811594,โรงเรียนบ้านสวนดอกท่าขันทองสามัคคี,AirGradient,20.287929573666037,100.17265393993704,False,False,2024-04-24T05:00:00Z,2024-12-16T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811595,โรงเรียนบ้านสันดาบ,AirGradient,13.538714910765675,100.34699792942607,False,False,2024-04-24T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811741,โรงเรียนบ้านเหมืองง่า,AirGradient,19.57391036865655,99.78945966307552,False,False,2024-04-24T07:00:00Z,2024-04-24T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811812,โรงเรียนบ้านหันใหญ่,AirGradient,15.773142728569882,102.65163695828736,False,False,2024-04-24T08:00:00Z,2024-04-24T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811813,โรงเรียนบ้านบึง-ยางประชาสรรค์,AirGradient,15.359517935267661,103.98238995374493,False,False,2024-04-24T08:00:00Z,2025-03-31T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811817,โรงเรียนบ้านแม่กองคา,AirGradient,18.046652379471208,97.82096642561154,False,False,2024-05-15T07:00:00Z,2025-03-03T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811857,โรงเรียนบ้านงิ้วใหม่,AirGradient,19.683041089169024,100.09608268612227,False,False,2024-04-24T09:00:00Z,2024-04-24T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2811859,เวียงเชียงรุ้ง   จ.เชียงราย,AirGradient,20.01478348661569,100.06638223958373,False,False,2024-04-24T09:00:00Z,2024-04-24T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813651,โรงเรียนด่านใต้วิทยา,AirGradient,16.24309780470331,103.72712951331772,False,False,2024-05-15T07:00:00Z,2026-01-08T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813653,โรงเรียนคูคำพิทยาสรรพ์,AirGradient,16.522197658786855,103.01450808336814,False,False,2024-04-25T04:00:00Z,2025-03-25T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813725,โรงเรียนอนุบาลพาน,AirGradient,19.535827619120635,99.74097750939806,False,False,2024-04-25T05:00:00Z,2025-03-08T16:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813902,โรงเรียนโนนสุวรรณพิทยาคม,AirGradient,14.58926069887642,102.60063381625223,False,False,2024-04-25T08:00:00Z,2024-07-08T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813903,โรงเรียนบ้านหินโคน,AirGradient,15.0024514147974,102.49220967195023,False,False,2024-04-25T08:00:00Z,2025-04-07T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813904,โรงเรียนวัดจันเสน,AirGradient,15.117804417115428,100.45916405575342,False,False,2024-06-28T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813975,โรงเรียนบ้านเกาะยวน,AirGradient,6.87268456246548,99.80799344894625,False,False,2024-04-25T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813976,โรงเรียนบ้านบึงทับแรต,AirGradient,16.702504348352143,99.86226286535995,False,False,2024-04-25T09:00:00Z,2025-12-16T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813978,โรงเรียนบ่อเกลือ,AirGradient,19.079081341720972,101.15802814887805,False,False,2024-05-21T16:00:00Z,2025-12-07T22:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2813979,โรงเรียนบ้านสามช่อง,AirGradient,8.300500343011905,98.42080755406148,False,False,2024-04-25T09:00:00Z,2024-04-25T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2814051,โรงเรียนบ้านท่าคลอง,AirGradient,6.712557412643191,101.05851274648653,False,False,2024-04-25T10:00:00Z,2025-02-21T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2821336,โรงเรียนโสตศึกษา ปราจีนบุรี,AirGradient,14.176639629938995,101.37048562423693,False,False,2024-04-30T04:00:00Z,2025-05-07T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2821337,โรงเรียนผ่านศึกสงเคราะห์ 2,AirGradient,20.1738211256972,100.06373951389979,False,False,2024-04-30T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2821629,"โรงเรียนหนองรี ""มิตรภาพที่ 225""",AirGradient,14.63634665114693,102.78607574105901,False,False,2024-05-01T03:00:00Z,2024-10-01T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2821701,โรงเรียนราชประชานุเคราะห์ 45,AirGradient,14.128972484746537,99.69294076763131,False,False,2024-05-15T07:00:00Z,2026-06-09T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2822813,โรงเรียนบ้านหนองแวงมน,AirGradient,15.738638477478045,102.4671765670442,False,False,2024-05-01T03:00:00Z,2026-09-26T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2826926,โรงเรียนบ้านโคกกลางอนุสรณ์,AirGradient,14.975487206390724,102.84285317073332,False,False,2024-05-03T17:00:00Z,2025-02-21T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827389,"Saraphi, Chiang Mai",AirGradient,18.69092576903741,99.04716043182036,False,False,2024-05-03T22:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827390,โรงเรียนขุนยวมวิทยา,AirGradient,18.83658958412909,97.93999695256035,False,False,2024-05-03T22:00:00Z,2025-04-02T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827391,มหาวิทยาลัยราชภัฏสุราษฎร์ธานี 2,AirGradient,9.079092104453187,99.35585497596007,False,False,2024-05-03T22:00:00Z,2024-05-26T14:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827392,มหาวิทยาลัยราชภัฎภูเก็ต 1,AirGradient,7.909639025949969,98.38698699663972,False,False,2024-05-03T22:00:00Z,2026-01-13T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827393,มหาวิทยาลัยราชภัฎภูเก็ต 2,AirGradient,7.913188350254121,98.38594629958502,False,False,2024-05-03T22:00:00Z,2025-11-26T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827394,หอดูดาวสงขลา,AirGradient,7.158502558743491,100.6113217561578,False,False,2024-05-03T22:00:00Z,2026-04-02T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827395,โรงเรียนแวงพิทยาคม,AirGradient,17.42769650946683,103.61873634019608,False,False,2024-05-03T22:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827396,โรงเรียนเสริมงามวิทยาคม,AirGradient,18.050391606682883,99.23346803905622,False,False,2024-05-03T22:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2827398,มหาวิทยาลัยราชภัฏสุราษฎร์ธานี 1,AirGradient,9.085112597568509,99.36435841579191,False,False,2024-05-03T22:00:00Z,2024-05-08T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2832266,โรงเรียนบีกริม,AirGradient,13.638638923364107,102.39096382050207,False,False,2024-05-07T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2832600,โรงเรียนเสริมขวาวิทยา,AirGradient,18.129044618992815,99.20212951372334,False,False,2024-05-13T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843623,โรงเรียนบ้านบึงเนียมบึงใคร่นุ่นท่าหิน,AirGradient,16.437090220329377,102.94489222691979,False,False,2024-05-13T07:00:00Z,2024-08-23T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843624,โรงเรียนทุ่งต้นปีก,AirGradient,8.265338492002899,98.80838059044652,False,False,2024-05-13T07:00:00Z,2025-01-01T21:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843625,โรงเรียนศรีสังวาลย์เชียงใหม่,AirGradient,18.91706462015052,98.99813940307875,False,False,2024-05-13T07:00:00Z,2025-01-12T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843627,โรงเรียนราชประชานุเคราะห์ 37,AirGradient,8.267128021403797,99.04695559639762,False,False,2024-05-13T07:00:00Z,2025-04-30T17:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843628,โรงเรียนบ้านหนองช้าง,AirGradient,15.771612780842087,103.62445122052046,False,False,2024-05-13T08:00:00Z,2024-12-03T04:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843630,โรงเรียนบ้านละทาย,AirGradient,15.179903455765555,104.58213514232098,False,False,2024-05-13T07:00:00Z,2025-04-09T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843631,โรงเรียนเทศบาล1,AirGradient,15.108579666315347,104.33112649176883,False,False,2024-06-18T09:00:00Z,2024-07-15T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843632,โรงเรียนบ้านท่ามะพร้าว,AirGradient,7.832802520610627,99.1719853716311,False,False,2024-05-13T07:00:00Z,2024-09-30T02:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843713,โรงเรียนโสตศึกษา สุรินทร์,AirGradient,14.708486039648943,103.42312321153788,False,False,2024-05-13T08:00:00Z,2026-09-29T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843720,โรงเรียนราชประชานุเคราะห์ 56,AirGradient,18.55614310402829,100.71911569413429,False,False,2024-05-13T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843723,โรงเรียนชุมชนวัดเขาไม้แก้ว,AirGradient,12.949917877088192,101.03639622869056,False,False,2024-06-12T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2843771,โรงเรียนบ้านน้อยห้วยรินวิทยา,AirGradient,18.02707441554263,98.66349112279283,False,False,2024-05-13T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2845048,โรงเรียนบ้านคลองตัน ,AirGradient,13.672005063516075,100.14150520971182,False,False,2024-05-14T04:00:00Z,2025-05-09T04:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2845347,โรงเรียนบ้านโคกขามโนนสมบูรณ์,AirGradient,14.817848930975666,102.88950559496688,False,False,2024-05-14T07:00:00Z,2026-02-03T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2846870,โรงเรียนบ้านกรูดหนองซำ,AirGradient,15.16195622435345,103.4473178782824,False,False,2024-05-15T04:00:00Z,2025-03-22T10:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847183,โรงเรียนบ้านน้ำอ้อมรัฐประชานุสรณ์,AirGradient,14.656188098453697,104.6479380461637,False,False,2024-05-15T08:00:00Z,2025-06-11T21:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847189,โรงเรียนสามขาท่าหาดยาววิทยา,AirGradient,15.467239994182787,103.89807727980353,False,False,2024-05-15T07:00:00Z,2024-12-13T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847190,โรงเรียนบ้านบ้องตี้,AirGradient,14.07163576918484,98.99364301926609,False,False,2024-05-15T08:00:00Z,2024-07-09T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847191,โรงเรียนบ้านกาศประชานุเคราะห์,AirGradient,18.082763142301825,100.17276032284325,False,False,2024-05-15T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847192,โรงเรียนวรดิตถ์วิทยาประสูทน์,AirGradient,14.490412714080469,100.43669131922096,False,False,2024-05-15T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847193,โรงเรียนเทศบาล3,AirGradient,15.132768807414523,104.31156419354186,False,False,2024-05-15T08:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847196,โรงเรียนวัดกระเฉท,AirGradient,12.75573100747808,101.22385802114438,False,False,2024-05-15T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847198,โรงเรียนบ้านหนองป่าก่อ,AirGradient,20.172104137137712,100.11495065829588,False,False,2024-05-15T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847199,"โรงเรียนบ้านกวางงอย ""รัฐราษฎ์อำนยวิทย์""",AirGradient,14.924239991191783,102.83397082105887,False,False,2024-05-15T07:00:00Z,2025-09-27T22:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847200,โรงเรียนห้วยลึกวิทยา,AirGradient,18.161524900880167,103.37388227367104,False,False,2024-05-15T08:00:00Z,2024-09-16T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847201,โรงเรียนชุมชนตำบลนายาง,AirGradient,17.914424417093098,99.30777676331053,False,False,2024-05-15T08:00:00Z,2025-02-24T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847202,โรงเรียนศรีสังวาลย์ ขอนแก่น,AirGradient,16.474516060555143,102.84070593309495,False,False,2024-05-15T07:00:00Z,2025-08-07T09:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847203,โรงเรียนบ้านเวียงแก้ว,AirGradient,20.377994751808878,100.02748244236572,False,False,2024-05-15T08:00:00Z,2024-12-10T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847205,โรงเรียนบ้านโนนแสนคำหนองศาลาศรีสะอาด,AirGradient,14.543129573360519,104.71854715911172,False,False,2024-05-15T08:00:00Z,2025-04-11T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847206,โรงเรียนราชประชานุเคราะห์ 15,AirGradient,20.27491375532466,100.08676619657707,False,False,2024-05-15T07:00:00Z,2025-03-01T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2847207,โรงเรียนบ้านหนองแวง ,AirGradient,15.08809077921939,102.97314965290245,False,False,2024-05-15T08:00:00Z,2025-11-14T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2848543,โรงเรียนบ้านหนองไห ,AirGradient,16.2072670990296,102.6615149381862,False,False,2024-05-16T02:00:00Z,2025-02-27T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2848549,โรงเรียนบ้านห้วยเม็ง (ประสาทวิทย์),AirGradient,20.297601712763182,100.38589414207362,False,False,2024-05-16T02:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2848632,โรงเรียนบ้านปัญจคาม,AirGradient,14.946756737052159,102.85642746135028,False,False,2024-05-16T02:00:00Z,2024-09-12T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2848810,International School Bangkok - Nonthaburi ,AirGradient,13.8929,100.5258,False,False,2024-05-16T02:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2848950,โรงเรียนพัฒนาสามัคคี,AirGradient,15.810264445974283,104.71285338712057,False,False,2024-05-16T06:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2850409,โรงเรียนบ้านห้วยไม้หก,AirGradient,17.426687368214814,98.46186558690347,False,False,2024-05-17T02:00:00Z,2026-09-27T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2850582,โรงเรียนท่านผู้หญิงวิไล อมาตยกุล,AirGradient,15.797497731650001,98.58490525995242,False,False,2024-05-17T04:00:00Z,2024-06-24T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2854419,โรงเรียนโสตศึกษาจังหวัดชัยภูมิ,AirGradient,15.861044591272048,102.07364302502404,False,False,2024-05-19T06:00:00Z,2024-06-26T04:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2856204,โรงเรียนโคกสวาสดิ์หนองสองห้องดอนแดง,AirGradient,15.971762558214655,104.63396983717334,False,False,2024-05-20T05:00:00Z,2025-02-20T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2856334,โรงเรียนบ้านขี้เหล็กดอยดินแดง,AirGradient,20.192107282287857,99.92237810267108,False,False,2024-05-20T08:00:00Z,2025-01-09T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2857820,โรงเรียนเตรียมทหาร รุ่นที่ 13 อนุสรณ์,AirGradient,16.350857980092687,104.57883941275776,False,False,2024-05-21T03:00:00Z,2025-05-22T04:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2858173,โรงเรียนบ้านคอกควาย(สันติภาพคุรุราษฎร์พัฒนา),AirGradient,14.687464929074753,102.79859033217699,False,False,2024-05-21T08:00:00Z,2025-07-24T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2861423,โรงเรียนพยัคฆภูมิวิทยาคาร,AirGradient,15.512772846428138,103.1924975423704,False,False,2024-05-23T03:00:00Z,2025-10-17T08:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2877979,โรงเรียนบ้านโปร่งสำราญ,AirGradient,18.172779557982327,103.17525478935896,False,False,2024-06-04T03:00:00Z,2024-06-18T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2894142,โรงเรียนราชประชานุเคราะห์ 50,AirGradient,16.25802367972713,102.77506342533592,False,False,2024-06-13T07:00:00Z,2025-11-19T05:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2894237,โรงเรียนบ้านโนนคูณ,AirGradient,14.920165439073962,104.71185584158256,False,False,2024-06-13T08:00:00Z,2025-02-24T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2894459,โรงเรียนลพบุรีปัญญานุกูล,AirGradient,14.783014131133461,100.64741702329812,False,False,2024-06-13T11:00:00Z,2026-10-01T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2904490,โรงเรียนบ้านแม่ลิด ,AirGradient,18.188941450430637,98.13689957660866,False,False,2024-06-19T08:00:00Z,2025-12-07T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2908059,"Prem International School, The Pool",AirGradient,18.962544060773414,98.91557422011076,False,False,2024-06-21T07:00:00Z,2025-03-05T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2909413,Soi Bumrungsin ,AirGradient,13.4054598,100.9875579,False,False,2024-06-22T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2912858,โรงเรียนวัดเกาะ,AirGradient,12.740953304194278,101.28107571423837,False,False,2024-06-24T06:00:00Z,2025-02-19T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2920397,โรงเรียนบ้านช่อผกา ,AirGradient,14.829779036752795,102.83396922482842,False,False,2024-06-28T08:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2926254,โรงเรียนบ้านวังลุง,AirGradient,18.177309310650944,98.61097589156435,False,False,2024-07-01T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2926351,โรงเรียนวัดเทพนิมิตร,AirGradient,7.860514922370785,98.36903463319537,False,False,2024-07-01T12:00:00Z,2025-12-16T01:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2927633,โรงเรียนราชประชานุเคราะห์ 35,AirGradient,8.776161659005904,98.26620212523758,False,False,2024-07-02T07:00:00Z,2026-06-19T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2927999,โรงเรียนราชประชานุเคราะห์ 46,AirGradient,15.184977141061985,100.12478444536801,False,False,2024-07-02T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2933397,โรงเรียนบ้านหนองยาง,AirGradient,17.970503944113364,103.28741677000276,False,False,2024-07-05T07:00:00Z,2025-01-09T07:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2933523,โรงเรียนบ้านหัวเวียง (โกศัลย์วิทย์),AirGradient,20.272634337603776,100.40377154901601,False,False,2024-07-05T09:00:00Z,2025-11-12T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2938625,โรงเรียนบ้านดอนแดงเจริญทอง,AirGradient,17.2537152291695,104.69491626895613,False,False,2024-07-08T03:00:00Z,2025-01-03T06:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+2953982,โรงเรียนบ้านเสียว,AirGradient,15.257387898044886,104.03668778711167,False,False,2024-07-16T09:00:00Z,2025-01-13T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3002975,พระอาทิตย์ขึ้น สันโป่ง,AirGradient,18.927,98.962,False,False,2024-08-04T07:00:00Z,2024-11-11T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3008643,Chumchon Banpadang School,Air4Thai,6.66638438023621,100.32726914385205,False,True,2024-08-08T11:00:00Z,2026-07-02T02:00:00Z,pm10|pm25
+3019320,Rangsit - Nakhon Nayok 25,AirGradient,13.990582062342105,100.63521933513957,False,False,2024-08-16T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3047300,"Sports Stadium, Chumphon Province",Air4Thai,10.495142389105824,99.18935409512319,False,True,2024-09-04T08:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+3047340,"Maerim, Chiangmai",AirGradient,18.932580910609936,98.94895059814411,False,False,2024-09-04T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3090636,Uno Solutions,AirGradient,13.8498819,100.638635,False,False,2024-10-03T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3097120,Circle Living Prototype,AirGradient,13.750578,100.556228,False,False,2024-10-07T02:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3098869,NIST International School,AirGradient,13.747719895912152,100.56011829186963,False,False,2024-10-08T02:00:00Z,2024-11-11T00:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3133267,NASA GSFC Rutgers Calib. N17,Clarity,13.8192,100.041,False,False,2024-10-15T04:09:41Z,2026-10-02T10:59:39Z,pm25
+3203249,Supalai Lake Ville Phuket,AirGradient,7.968184,98.378202,False,False,2024-10-30T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3291325,Mae Sariang District Office,Air4Thai,18.158912,97.93271,False,True,2024-11-29T02:00:00Z,2026-06-01T01:00:00Z,pm25
+3332045,Soi Ramintra 62,AirGradient,13.8306134,100.6690372,False,False,2024-12-23T08:00:00Z,2026-07-28T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3337858,Health Promoting Hospital Khlong Sakae,Air4Thai,14.499973,100.650785,False,True,2024-12-27T09:00:00Z,2025-05-12T12:00:00Z,pm10|pm25
+3343025,Suphan Buri Sri Prachan,AirGradient,14.642824,100.149966,False,False,2024-12-31T01:00:00Z,2026-04-21T13:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3345301,Pramuan Suk Health Park,Air4Thai,16.77283,103.29982399999999,False,True,2025-01-01T13:00:00Z,2025-01-03T02:00:00Z,co|no2|o3|pm10|pm25|so2
+3345345,Rayong Provincial Stadium,Air4Thai,12.678917,101.234664,False,True,2025-01-01T13:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+3347581,Pramuan Suk Health Park,Air4Thai,16.177283,103.299824,False,True,2025-01-03T02:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+3349809,Green Life Samui,AirGradient,9.539588,100.046542,False,False,2025-01-04T15:00:00Z,2025-04-06T03:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3350392,Mexico City Polanco,AirGradient,19.434,99.1956,False,False,2025-01-05T00:00:00Z,2026-06-05T23:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3354390,Soi Cowboy,AirGradient,13.7370851,100.562983,False,False,2025-01-06T14:00:00Z,2025-01-13T19:00:00Z,pm1|pm10|pm25|relativehumidity|temperature|um003
+3368091,Land Development Station,Air4Thai,13.520415,100.1506688,False,True,2025-01-14T10:00:00Z,2025-05-14T03:00:00Z,pm25
+3400903,Soi Cowboy ,AirGradient,13.7370851,100.562983,False,False,2025-02-11T18:00:00Z,2025-12-15T08:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400922,Wang Pring Teen Na บ้านวังปริง-ตีนนา ,AirGradient,6.80172419898538,100.49337985674264,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400935,MI Home,AirGradient,13.698573693307418,100.5959569057577,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400936,Thung Hua Sinn Group,AirGradient,13.69892706888951,100.5967325993592,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400937,Khlong 3 - Lat Sawai,AirGradient,13.944866,100.6670272,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400941,Neighbour Home,AirGradient,13.9135033,100.6843258,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400954,"Bangramad, Talingchan",AirGradient,13.769972,100.436219,False,False,2025-02-11T18:00:00Z,2025-06-28T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400955,Ban Lat Sombun,AirGradient,17.0747487,103.9818061,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400956,The Lofts Asoke - sukhumvit 21,AirGradient,13.74679776025865,100.56215036834317,False,False,2025-02-12T05:00:00Z,2026-06-18T06:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400979,"House 45, Arden Rama 3",AirGradient,13.67941,100.54297,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3400985,Onnut 44,AirGradient,13.699072722760107,100.63272004438734,False,False,2025-02-11T18:00:00Z,2025-12-14T03:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3401031,Royce Private,N/A,13.7408785546112,100.56617492969099,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3402586,TPN FlexPak,AirGradient,13.5865189344302,100.95071089222978,False,False,2025-02-11T18:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3402593,TPN Packaging,AirGradient,13.587370852277184,100.94784483015584,False,False,2025-02-14T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3402594,Thung Hua Sinn Printing Network,AirGradient,13.579648742936051,100.94081408928972,False,False,2025-02-14T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3407228,Noble Remix - Bangkok,AirGradient,13.725080260147958,100.57723279163291,False,False,2025-02-17T09:00:00Z,2025-12-06T03:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3412669,"Don Wai, Nong Khai",AirGradient,17.800084262001807,102.67435310442903,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3527752,"Sanam Sai, Pong Ta Long, Pak Chong",AirGradient,14.559764291719427,101.50069771390922,False,False,2025-02-28T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3576032,Ban Nong Wa,AirGradient,14.968124,102.9822904,False,False,2025-03-04T10:00:00Z,2026-02-25T20:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3652441,"Soi Sukhumvit 31, High floor",AirGradient,13.73411,100.565955,False,False,2025-03-10T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3699664,บริษัท ไอ.ที.โกลโบล จำกัด,AirGradient,18.7316881,98.9514679,False,False,2025-03-14T08:00:00Z,2026-04-07T12:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3891934,หมู่บ้านแก้วสา,AirGradient,18.928286035684813,98.94445179435797,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3892436,วัดดวงดี,AirGradient,18.91977780483509,98.95279736395602,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3892437,บ้านร้องเกิด,AirGradient,18.92786395211318,98.96541049234524,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+3920973,RC-Film,AirGradient,12.947857053547915,101.10873618266338,False,False,2025-04-01T18:00:00Z,2025-04-02T01:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4028033,Opposite Thammasat Chiang Rak 1 Gate - ชุมชนคุ้งผ้าพับ ธรรมศาสตร์ เชียงราก 1,AirGradient,14.064706097742768,100.60502410138216,False,False,2025-04-12T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4131363,KU faculty of environnment,AirGradient,13.85574,100.570032,False,False,2025-04-22T04:00:00Z,2026-04-21T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4133388,Kasetsat University,AirGradient,13.85574,100.570032,False,False,2025-04-22T06:00:00Z,2026-04-07T10:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4165629,Trat ,AirGradient,12.250418275215738,102.51627866749956,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4213488,KU Faculty of environnment,AirGradient,13.85574,100.570032,False,False,2025-09-26T07:00:00Z,2026-05-21T02:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4588536,บ้านดอยน้อย,AirGradient,18.9335,99.0098,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4700981,Central Phuket,AirGradient,8.04441,98.3148,False,False,2025-06-11T12:00:00Z,2025-08-28T14:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4754802,Urban Studies Lab,AirGradient,13.7574005,100.5066183,False,False,2025-06-16T04:00:00Z,2025-12-03T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4765764,THABO HOSPITAL - โรงพยาบาลสมเด็จพระยุพราชท่าบ่อ,AirGradient,17.846889,102.576403,False,False,2025-06-17T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4837111,Palm Estate,AirGradient,13.710874395049988,100.54139120223834,False,False,2025-06-23T09:00:00Z,2026-01-05T10:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4894523,Nantawan Pinklao-Ratchaphruek,AirGradient,13.770583060432282,100.43630207777919,False,False,2025-06-29T02:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4932270,AirGradient Demo Dashboard,AirGradient,18.900572,98.6950831,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+4993065,DPSW Production,AirGradient,13.843354,100.725719,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5024214,Sukontasawat19 ,AirGradient,13.833484,100.622189,False,False,2025-09-19T00:00:00Z,2026-09-10T10:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5092509,KU faculty of environnment,AirGradient,13.85574,100.570032,False,False,2025-09-26T07:00:00Z,2026-04-05T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5092510,Kasetsart University,AirGradient,13.85574,100.570032,False,False,2025-09-26T04:00:00Z,2026-09-25T02:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5108494,Magi HQ,AirGradient,13.730769164153706,100.6934361114503,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5454936,BTT HQ,AirGradient,13.631563,100.489559,False,False,2025-08-16T17:00:00Z,2025-08-16T17:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5482624,BTT APW,AirGradient,13.430072,99.955553,False,False,2025-08-19T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5551122,7-eleven,AirGradient,18.944416458815923,98.94308592870685,False,False,2025-09-19T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5554536,Chalermprakiat Rama IX Park,Air4Thai,15.173475,100.132105,False,True,2025-08-25T09:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+5554537,Chaloem Phrakiat Park Station 80th birthday celebration,Air4Thai,15.384667,100.024992,False,True,2025-08-25T09:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm10|pm25|so2
+5554538,Pattani Provincial Forestry Center,Air4Thai,6.890637,101.250888,False,True,2025-08-25T09:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+5554539,Phatthalung Provincial Stadium,Air4Thai,7.6156514,100.0480234,False,True,2025-08-25T09:00:00Z,2026-10-02T11:00:00Z,co|no2|o3|pm25|so2
+5851170,Baan Kut Ngong,AirGradient,14.680844804221923,101.60590778699802,False,False,2025-09-20T06:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5951902,Air Quality Nexus Center_GIC ,AirGradient,14.08211,100.6129,False,False,2025-09-29T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5955903,Air Quality Nexus Center,AirGradient,14.082600300738342,100.61297245208486,False,False,2025-09-29T17:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+5965756,The base hight,AirGradient,18.8029938,99.01666,False,False,2025-09-30T11:00:00Z,2025-12-11T22:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6046741,Ceil Condo Outdoor,AirGradient,13.730526919960575,100.58789715633158,False,False,2025-10-07T08:00:00Z,2025-10-07T08:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6048285,Klin Mai Ram village,AirGradient,13.6882883,100.6288872,False,False,2025-10-07T11:00:00Z,2026-03-12T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6094818,Banpho,AirGradient,14.4919901,100.0750989,False,False,2025-10-14T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6099600,Hakuna Matata Villas Phrae,AirGradient,18.306047430369297,100.28064817700623,False,False,2025-10-18T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6101817,Hana,AirGradient,12.33466,99.979912,False,False,2025-10-20T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6115454,' ',AirGradient,18.923649,98.975744,False,False,2025-11-01T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6118093,Ban Lad Sombun,AirGradient,17.074733,103.981793,False,False,2025-11-03T16:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6130741,Sukhumvit101/1,AirGradient,13.682404,100.613816,False,False,2025-11-15T01:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6144367,Duang Prateep Foundation HQ,AirGradient,13.710670173250579,100.57499367487921,False,False,2025-11-27T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6144405,Baan Makong,AirGradient,13.70559,100.584,False,False,2025-11-27T11:00:00Z,2026-03-18T06:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6144666,"Lock 1-2-3 (13.7121923, 100.5740800)",AirGradient,13.712219,100.57408,False,False,2025-11-27T13:00:00Z,2026-06-25T07:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6149445,PHOTHARAM,AirGradient,13.6337,99.83283,False,False,2025-12-02T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6152097,NongHoi,AirGradient,18.747511275645873,99.0158037871921,False,False,2025-12-04T12:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6154187,Britania KhuKhot,AirGradient,13.95102,100.648903,False,False,2025-12-06T03:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6160493,ໂຮງໝໍແຂວງສະຫວັນນະເຂດ Savannakhet Provincial Hospital,AirGradient,16.5504623530255,104.746607785021,False,False,2025-12-11T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6160761,Suthep,AirGradient,18.785159,98.960696,False,False,2025-12-11T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6165738,Wat Thong Song Tham Child Development Center,Air4Thai,14.420548,100.595312,False,True,2025-12-15T03:00:00Z,2026-05-08T01:00:00Z,pm10|pm25
+6167893,Ruean Prathap Station,Air4Thai,16.666299,98.657489,False,True,2025-12-17T03:00:00Z,2025-12-23T05:00:00Z,pm10|pm25
+6167894,Tha Kham Municipality Office,Air4Thai,18.752222,98.927778,False,True,2025-12-17T03:00:00Z,2025-12-17T03:00:00Z,pm10|pm25
+6167895,Tree planting station,Air4Thai,16.663994,98.664641,False,True,2025-12-17T03:00:00Z,2025-12-23T02:00:00Z,pm10|pm25
+6176026,"iyachart Pattana School, under the royal patronage of Her Royal Highness Princess Maha Chakri Sirindhorn.",Air4Thai,14.278780850523706,101.16093815767054,False,True,2025-12-24T02:00:00Z,2025-12-26T10:00:00Z,pm25
+6191210,hung Thale Luang Station,Air4Thai,17.051112,99.806396,False,True,2026-01-06T03:00:00Z,2026-01-16T08:00:00Z,pm10|pm25
+6192014,Opposite TU Chiang Rak 1 - ชุมชนคุ้งผ้าพับ มธ. เชียงราก 1 - เครื่อง Test,AirGradient,14.064828,100.605157,False,False,2026-01-06T18:00:00Z,2026-01-20T13:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6195103,"Mityothin, Chatuchak, Bangkok",AirGradient,13.8237744,100.5667347,False,False,2026-01-09T16:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6200540,โรงเรียนนิคมสร้างตนเองสงเคราะห์ขาวเขา,AirGradient,20.18158879881544,99.7706405269282,False,False,2026-01-14T04:00:00Z,2026-01-14T06:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6202299,PhasinHQ,AirGradient,14.149093,100.613889,False,False,2026-01-16T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6204072,Srinakharinwirot University,Air4Thai,14.105929779420226,100.9851175092921,False,True,2026-01-17T01:00:00Z,2026-01-20T04:00:00Z,pm25
+6204360,Ban Fah Piyarom phase 2 (Kiengsuan),AirGradient,13.94169,100.737271,False,False,2026-01-17T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6204666,Snoozer Labs (Tantip Village),AirGradient,13.76183725246212,100.65373440109288,False,False,2026-01-17T13:00:00Z,2026-09-25T19:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6204667,Life Bangkok Boulevard,AirGradient,13.8158217,100.6953185,False,False,2026-01-17T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6205698,AGRO🏠,AirGradient,13.908673,100.435375,False,False,2026-01-18T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6205699,SM HQ,AirGradient,13.7745623,100.7076196,False,False,2026-01-18T09:00:00Z,2026-06-21T04:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6205700,GappyZ HQ,AirGradient,13.638242,100.482148,False,False,2026-01-18T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6205764,SM HQ,AirGradient,13.7655832,100.7004831,False,False,2026-01-18T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6205924,Manthana 2 Bangna KM.7,AirGradient,13.64403537761468,100.66741440750471,False,False,2026-01-18T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6206887,Dairy Promotion Organization of Thailand,Air4Thai,14.634513215336314,101.19161207791055,False,True,2026-01-19T10:00:00Z,2026-01-24T02:00:00Z,no2|o3|pm10|pm25|so2
+6207256,"Darunee Farm, Doi Lo",AirGradient,18.559169677653216,98.79386831199298,False,False,2026-01-19T17:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6209697,หับ โห้ หิ้น (ハップ・ホー・ヒン),AirGradient,7.1982809,100.5884935,False,False,2026-01-21T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6209698,OatState Home - Baan Klang Muang Phaholyothin 50,AirGradient,13.887808364752395,100.61798243052827,False,False,2026-01-21T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6210633,Wongsakorn NaMueang,AirGradient,13.68636,101.060703,False,False,2026-01-22T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6210702,Mind Tiwanon Village,AirGradient,13.848333,100.505547,False,False,2026-01-22T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6216172,585 Prachasongkhro 2 Yak 11 DinDaeng Bangkok,AirGradient,13.762562,100.559812,False,False,2026-01-26T12:00:00Z,2026-05-15T06:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6217058,"Research Institute for Health Sciences (RIHES),. Chiang Mai University",AirGradient,18.7948519,98.9563673,False,False,2026-01-27T05:00:00Z,2026-02-02T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6218293,Pa-Yang Wang Kaphi,AirGradient,17.575023,100.124236,False,False,2026-01-28T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6218918,"สี่แยกน้ำโมง - Nam Mong, Thabo Intersection",AirGradient,17.85811604548048,102.57049911130102,False,False,2026-01-28T17:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6220117,Soi Pattanasin,AirGradient,13.78119,100.53811,False,False,2026-01-29T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6221185,Mae  Rim,AirGradient,18.93214606104985,98.93228799565617,False,False,2026-01-30T09:00:00Z,2026-02-20T17:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6222090,The Supreme Artist Hall,Air4Thai,14.071361045244474,100.69966420057868,False,True,2026-01-31T01:00:00Z,2026-02-03T02:00:00Z,no2|o3|pm10|pm25|so2
+6222557,Granada Pinklao Village,AirGradient,13.793313574500337,100.36264082195247,False,False,2026-01-31T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6223085,Tor Kasetpattana,AirGradient,13.802151,99.970952,False,False,2026-01-31T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6224050,"Meow-nitoring Station, Thoet Rachan, Don mueang, Bangkok",AirGradient,13.94765038109582,100.59536746994597,False,False,2026-02-01T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6225366,Sriphum,AirGradient,18.7909333,98.9881964,False,False,2026-02-02T10:00:00Z,2026-04-02T08:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6226542,MaeWannee Gold 11,AirGradient,13.164647,100.931404,False,False,2026-02-03T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6226788,SuanMongkol,AirGradient,12.9329552,101.9119605,False,False,2026-02-03T11:00:00Z,2026-10-02T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6229487,All Weather Farm,AirGradient,13.623311,100.434948,False,False,2026-02-05T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6229488,Baan Kin,AirGradient,13.626585,100.419946,False,False,2026-02-05T14:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6230362,บ้านหัวหาด-คุ้งตะเภา,AirGradient,17.659754,100.167478,False,False,2026-02-06T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6230395,ถนนตัดใหม่-แยกวัดอรัญฯ,AirGradient,17.63678,100.081672,False,False,2026-02-06T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6230463,Wat Thipsukontharam,Air4Thai,14.322590288904477,99.70350372440087,False,True,2026-02-06T08:00:00Z,2026-02-25T04:00:00Z,no2|o3|pm10|pm25|so2
+6230638,Miracle Theparak,AirGradient,13.601138,100.681314,False,False,2026-02-06T14:00:00Z,2026-02-16T20:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6230737,Test bed,AirGradient,13.849607,100.504991,False,False,2026-02-06T15:00:00Z,2026-02-20T03:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6235850,THE LINE Phahonyothin Park,AirGradient,13.817607270599972,100.566363356019,False,False,2026-02-10T19:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6236444,Rangsit - Nakhon Nayok 50,AirGradient,13.983343863176646,100.64824474352226,False,False,2026-02-11T06:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6238788,Jilawan Thai Local Treats,AirGradient,13.537611,101.009417,False,False,2026-02-13T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6240774,147/23 Maneerin Park Rangsit,AirGradient,13.994154165223069,100.56624675916261,False,False,2026-02-15T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6242472,The Miracle Thepharak,AirGradient,13.60110559801693,100.68135071743959,False,False,2026-02-16T21:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6244503,Thairoj Pharmacy,AirGradient,20.25670103274936,100.40604193534264,False,False,2026-02-18T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6245573,Passorn 5,AirGradient,13.7061133,100.4519157,False,False,2026-02-19T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6246375,Thap Luang Subdistrict Administrative Organization,Air4Thai,15.103107950461235,99.62226751002622,False,True,2026-02-20T06:00:00Z,2026-04-02T08:00:00Z,pm25
+6248478,ThaReang,AirGradient,13.8644075,100.6580904,False,False,2026-02-22T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6251785,Guest House at King Naresuan the Great Camp,Air4Thai,16.83715163121024,100.25910826690338,False,True,2026-02-25T02:00:00Z,2026-02-26T07:00:00Z,pm10|pm25
+6254869,Car Clinic Wat Thanon Khae,AirGradient,14.826475283457356,100.63362680360751,False,False,2026-02-27T23:00:00Z,2026-04-16T06:00:00Z,pm1|pm25
+6256182,Ban Non Muang,AirGradient,15.700208339806426,101.84339557617676,False,False,2026-03-01T02:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6262040,Sadao Khanchai School  สะเดาขรรค์ชัย,AirGradient,6.6288089,100.4227884,False,False,2026-03-06T06:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6262229,Public Park to commemorate the sixth anniversary of His Majesty the King,Air4Thai,13.685524189587932,100.51830028147444,False,True,2026-03-06T09:00:00Z,2026-10-02T11:00:00Z,pm25
+6262415,Opposite TU Chiang Rak 1 - ชุมชนคุ้งผ้าพับ มธ. เชียงราก 1 - เครื่อง Test,AirGradient,14.065220541194403,100.6049662454904,False,False,2026-03-06T11:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6265525,TaGu,AirGradient,13.764253106297673,100.50850720090718,False,False,2026-03-09T08:00:00Z,2026-03-09T08:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6265526,Air data collection at Un conference,AirGradient,13.7101,100.4543,False,False,2026-03-09T08:00:00Z,2026-03-09T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6265527,Allin-Wayra,AirGradient,13.754,100.5014,False,False,2026-03-09T09:00:00Z,2026-03-09T10:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6265528,Aurgradient BAQ Monitor,AirGradient,13.76402528587127,100.50871186467644,False,False,2026-03-09T08:00:00Z,2026-03-09T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6265530,หนองผา,AirGradient,17.624569,100.079678,False,False,2026-03-09T10:00:00Z,2026-10-02T10:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6266258,"Doi Tung Royal Palace, Mae Fah Luang District, Chiang Rai Province",Air4Thai,20.28755518332941,99.81050726698746,False,True,2026-03-09T23:00:00Z,2026-03-12T04:00:00Z,pm10|pm25
+6266641,"Phaya Ngam Muang Auditorium, University of Phayao",Air4Thai,19.029919816067558,99.89736003675418,False,True,2026-03-10T07:00:00Z,2026-03-12T02:00:00Z,no2|o3|pm10|pm25|so2
+6266678,ถนนพาดวารี-บขส,AirGradient,17.61106,100.092195,False,False,2026-03-10T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6266905,"CACAAS Co., Ltd. - Keystone TU Office",AirGradient,14.06392,100.59814,False,False,2026-03-10T13:00:00Z,2026-09-21T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6273349,Artillery Officers Club of the 31st Artillery Battalion,Air4Thai,14.884886999744845,100.6373358670088,False,True,2026-03-16T02:00:00Z,2026-03-17T08:00:00Z,pm10|pm25
+6277032,Wat Phra Pathom Chedi Ratchaworamahavihara,Air4Thai,13.817360990710023,100.05771179582489,False,True,2026-03-19T03:00:00Z,2026-03-20T04:00:00Z,no2|o3|pm10|pm25|so2
+6280774,Ornsirin 5,AirGradient,18.71595715584073,99.04038033815908,False,False,2026-03-22T10:00:00Z,2026-08-02T08:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6284173,BAN HUAI THONG,AirGradient,18.694757669804677,98.80986005428556,False,False,2026-03-25T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6284174,Ban ThaGu School,AirGradient,18.56113105313322,99.25621417429879,False,False,2026-03-25T08:00:00Z,2026-10-02T01:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6285048,Ban ThaPaPao School,AirGradient,18.47725369479227,99.19033271945464,False,False,2026-03-26T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6287521,"BANTHI, LAMPHUN",AirGradient,18.65725,99.1126667,False,False,2026-03-28T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6288760,Palm,AirGradient,13.710894,100.541399,False,False,2026-03-29T09:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6289784,TimBee,AirGradient,14.968039282206153,102.98158857056164,False,False,2026-03-30T05:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6291444,AQ Guard (Ref),AirGradient,18.943736,98.94288,False,False,2026-03-31T16:00:00Z,2026-09-07T07:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6291584,electronic lab San Tan Lueang,AirGradient,19.945561,99.835221,False,False,2026-03-31T21:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6291933,Mae Suai Hospital - MORU,AirGradient,19.642300490267758,99.52573286824058,False,False,2026-04-01T04:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6294442,The Elements Sauna & Ice Bath,AirGradient,19.3759,98.9847,False,False,2026-04-03T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6300553,TANYA Baan Bon Doi,AirGradient,19.878066,99.817408,False,False,2026-04-08T13:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6301503,Baan Doi Chang Health Promoting Hospital - MORU Network,AirGradient,19.81932760680476,99.55978054677793,False,False,2026-04-09T06:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6306141,98 Navy House 31,AirGradient,12.716056910327243,100.89216755891879,False,False,2026-04-13T07:00:00Z,2026-04-14T07:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6309947,Clinic Rot Yon Wat Thanon Khae,AirGradient,14.82646368935957,100.63362793718295,False,False,2026-04-16T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6318469,The Nest School Chiang Mai,AirGradient,18.697738285002185,98.93636359429838,False,False,2026-04-23T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6325480,Erawan National Park,Air4Thai,14.374830537949412,99.14523682440188,False,True,2026-04-28T03:00:00Z,2026-05-29T04:00:00Z,pm25
+6326620,At Nong Lu Subdistrict Administrative Organization,Air4Thai,15.195980066907032,98.46131696674739,False,True,2026-04-28T23:00:00Z,2026-05-28T08:00:00Z,pm10|pm25
+6328962,"Don Tako, Ratchaburi",AirGradient,13.51406,99.804503,False,False,2026-04-30T15:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6364262,"Ban Doi Sombun, Doi Lan",AirGradient,19.64273403027352,99.9522689315249,False,False,2026-05-19T16:00:00Z,2026-07-08T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6374402,Hulachomklao Royal Military Academy.,Air4Thai,14.301562019562708,101.16679487116414,False,True,2026-05-26T03:00:00Z,2026-05-28T06:00:00Z,no2|o3|pm10|pm25|so2
+6397573,(Saohai Wimolwitthayanukul School.),Air4Thai,14.547922866744255,100.85647317791022,False,True,2026-06-11T02:00:00Z,2026-06-12T21:00:00Z,pm10|pm25
+6410306,Mae Ann,AirGradient,18.97058,98.89246,False,False,2026-06-20T00:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6419381,Ban ThaPaSak School,AirGradient,18.544528710587837,99.24151158131207,False,False,2026-06-26T07:00:00Z,2026-10-02T05:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6419429,Tungnangam SAO,AirGradient,15.380266809751035,99.59041309632848,False,False,2026-06-26T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6435325,Cloud11,AirGradient,13.684111,100.608831,False,False,2026-07-07T10:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6472300,Anuban Kud khaopun School (Peace Corps),AirGradient,15.787667968208838,104.98604649200837,False,False,2026-08-03T07:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6489591,Prom,AirGradient,13.777592,100.546442,False,False,2026-08-15T05:00:00Z,2026-08-15T09:00:00Z,pm1|pm25|relativehumidity|temperature|um003
+6502940,Supalai Bella Thalang,AirGradient,8.04179,98.33962,False,False,2026-08-23T08:00:00Z,2026-10-02T11:00:00Z,pm1|pm25|relativehumidity|temperature|um003
